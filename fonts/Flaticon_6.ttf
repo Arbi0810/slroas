@@ -1,0 +1,1929 @@
+<!doctype html>
+<html lang="ro-RO">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="profile" href="https://gmpg.org/xfn/11">
+
+	<title>N-am găsit nimic pentru  Wp Content Plugins Elementor Sm Widgets Assets Fonts Flaticon Ttf</title>
+
+<!-- All In One SEO Pack 3.4.3ob_start_detected [-1,-1] -->
+<script type="application/ld+json" class="aioseop-schema">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://tiptop.ro/#organization","url":"https://tiptop.ro/","name":"Tip Top","sameAs":[]},{"@type":"WebSite","@id":"https://tiptop.ro/#website","url":"https://tiptop.ro/","name":"Tip Top","publisher":{"@id":"https://tiptop.ro/#organization"},"potentialAction":{"@type":"SearchAction","target":"https://tiptop.ro/?s={search_term_string}","query-input":"required name=search_term_string"}}]}</script>
+<!-- All In One SEO Pack -->
+<link rel="dns-prefetch" href="//fonts.googleapis.com">
+<link rel="dns-prefetch" href="//s.w.org">
+<link rel="alternate" type="application/rss+xml" title="Tip Top &raquo; Flux" href="https://tiptop.ro/feed/">
+<link rel="alternate" type="application/rss+xml" title="Tip Top &raquo; Flux comentarii" href="https://tiptop.ro/comments/feed/">
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/tiptop.ro\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.4.4"}};
+			/*! This file is auto-generated */
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel="stylesheet" id="theme-icons-css" href="../css/icons.css" type="text/css" media="all">
+<link rel="stylesheet" id="theme-widgets-style-css" href="../css/widgets_style.css" type="text/css" media="all">
+<link rel="stylesheet" id="owl-carousel-css" href="../css/owl.carousel.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="wp-block-library-css" href="../css/style.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="wp-block-library-theme-css" href="../css/theme.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="wc-block-style-css" href="../css/style.css" type="text/css" media="all">
+<link rel="stylesheet" id="wooconvo-convo-css-css" href="../css/wooconvo.css" type="text/css" media="all">
+<link rel="stylesheet" id="contact-form-7-css" href="../css/styles.css" type="text/css" media="all">
+<link rel="stylesheet" id="pwb-styles-frontend-css" href="../css/styles-frontend.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="stretch-gallery-plugin-css" href="../css/gallery.css" type="text/css" media="all">
+<link rel="stylesheet" id="woof-css" href="../css/front.css" type="text/css" media="all">
+<link rel="stylesheet" id="chosen-drop-down-css" href="../css/chosen.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="icheck-jquery-color-css" href="../css/aero.css" type="text/css" media="all">
+<link rel="stylesheet" id="woof_by_instock_html_items-css" href="../css/by_instock.css" type="text/css" media="all">
+<link rel="stylesheet" id="woocommerce-layout-css" href="../css/woocommerce-layout.css" type="text/css" media="all">
+<link rel="stylesheet" id="woocommerce-smallscreen-css" href="../css/woocommerce-smallscreen.css" type="text/css" media="only screen and (max-width: 768px)">
+<link rel="stylesheet" id="woocommerce-general-css" href="../css/woocommerce.css" type="text/css" media="all">
+<style id="woocommerce-inline-inline-css" type="text/css">
+.woocommerce form .form-row .required { visibility: visible; }
+</style>
+<link rel="stylesheet" id="hfe-style-css" href="../css/header-footer-elementor.css" type="text/css" media="all">
+<link rel="stylesheet" id="jet-elements-css" href="../css/jet-elements.css" type="text/css" media="all">
+<link rel="stylesheet" id="jet-elements-skin-css" href="../css/jet-elements-skin.css" type="text/css" media="all">
+<link rel="stylesheet" id="elementor-icons-css" href="../css/elementor-icons.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="elementor-animations-css" href="../css/animations.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="elementor-frontend-css" href="../css/frontend.min_1.css" type="text/css" media="all">
+<link rel="stylesheet" id="powerpack-frontend-css" href="../css/frontend_1.css" type="text/css" media="all">
+<link rel="stylesheet" id="elementor-pro-css" href="../css/frontend.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="eihe-front-style-css" href="../css/style_2.css" type="text/css" media="all">
+<link rel="stylesheet" id="jet-smart-filters-css" href="../css/public.css" type="text/css" media="all">
+<link rel="stylesheet" id="font-awesome-5-all-css" href="../css/all.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="font-awesome-4-shim-css" href="../css/v4-shims.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="elementor-post-78-css" href="../css/post-78.css" type="text/css" media="all">
+<link rel="stylesheet" id="hfe-widgets-style-css" href="../css/frontend.css" type="text/css" media="all">
+<link rel="stylesheet" id="elementor-post-103-css" href="../css/post-103.css" type="text/css" media="all">
+<link rel="stylesheet" id="stm-gdpr-styles-css" href="../css/styles_1.css" type="text/css" media="all">
+<link rel="stylesheet" id="orbisius_ct_manufacturer_child_parent_style-css" href="../css/style_4.css" type="text/css" media="all">
+<link rel="stylesheet" id="orbisius_ct_manufacturer_child_parent_style_child_style-css" href="../css/style_1.css" type="text/css" media="all">
+<link rel="stylesheet" id="manufacturer-main-styles-css" href="../css/manufacturer_style_3.css" type="text/css" media="all">
+<link rel="stylesheet" id="manufacturer-responsive-styles-css" href="../css/responsive_3.css" type="text/css" media="all">
+<link rel="stylesheet" id="themify-icons-css" href="../css/themify-icons.css" type="text/css" media="all">
+<link rel="stylesheet" id="dashicons-css" href="../css/dashicons.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="manufacturer-style-css" href="../css/style_3.css" type="text/css" media="all">
+<link rel="stylesheet" id="jet-woo-builder-css" href="../css/jet-woo-builder.css" type="text/css" media="all">
+<style id="jet-woo-builder-inline-css" type="text/css">
+@font-face {
+			font-family: "WooCommerce";
+			src: url("WooCommerce.eot");
+			src: url("WooCommerce.eot#iefix") format("embedded-opentype"),
+				url("https://tiptop.ro/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.woff") format("woff"),
+				url("WooCommerce.ttf") format("truetype"),
+				url("https://tiptop.ro/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.svg#WooCommerce") format("svg");
+			font-weight: normal;
+			font-style: normal;
+			}
+</style>
+<link rel="stylesheet" id="jet-woo-builder-frontend-css" href="../css/jetwoobuilder-frontend-font.css" type="text/css" media="all">
+<link rel="stylesheet" id="whatsappme-css" href="../css/whatsappme.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="redux-google-fonts-theme_options-css" href="../css/css.css" type="text/css" media="all">
+<link rel="stylesheet" id="google-fonts-1-css" href="../css/css_2.css" type="text/css" media="all">
+<link rel="stylesheet" id="elementor-icons-shared-0-css" href="../css/fontawesome.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="elementor-icons-fa-brands-css" href="../css/brands.min.css" type="text/css" media="all">
+<!--n2css--><script type="text/javascript">
+/* <![CDATA[ */
+var pp = {"ajax_url":"https:\/\/tiptop.ro\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="../js/jquery.js"></script>
+<script type="text/javascript" src="../js/jquery-migrate.min.js"></script>
+<script type="text/javascript" src="../js/skroll-r.js"></script>
+<script type="text/javascript" src="../js/scripts_5.js"></script>
+<script type="text/javascript" src="../js/owl.carousel.min.js"></script>
+<script type="text/javascript" src="../js/moxie.min.js"></script>
+<script type="text/javascript" src="../js/plupload.min.js"></script>
+<script type="text/javascript" src="../js/effect.min.js"></script>
+<script type="text/javascript" src="../js/effect-shake.min.js"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var wooconvo_vars = {"ajaxurl":"https:\/\/tiptop.ro\/wp-admin\/admin-ajax.php","plugin_url":"https:\/\/tiptop.ro\/wp-content\/plugins\/admin-and-client-message-after-order-for-woocommerce","settings":"","order_id":"1","order_email":"","file_upload_path_thumb":"https:\/\/tiptop.ro\/wp-content\/uploads\/order_files\/thumbs\/","file_upload_path":"https:\/\/tiptop.ro\/wp-content\/uploads\/order_files\/","expand_all":"Expand all","collapse_all":"Collapse all","message_max_files_limit":" files allowed only"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="../js/convo.js"></script>
+<script type="text/javascript" src="../js/stretch_gallery.js"></script>
+<script type="text/javascript" src="../js/v4-shims.min.js"></script>
+<link rel="https://api.w.org/" href="https://tiptop.ro/wp-json/">
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://tiptop.ro/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://tiptop.ro/wp-includes/wlwmanifest.xml"> 
+<meta name="generator" content="WordPress 5.4.4">
+<meta name="generator" content="WooCommerce 4.0.1">
+<style type="text/css"> .ae_data .elementor-editor-element-setting {
+                        display:none !important;
+                }
+                </style>
+<!-- Call Now Button 0.4.0 by Jerry Rietveld (callnowbutton.com) -->
+<style>#callnowbutton {display:none;} @media screen and (max-width:650px){#callnowbutton {display:block; position:fixed; text-decoration:none; z-index:2147483647;width:65px; height:65px; border-radius:50%; box-shadow: 0 3px 6px rgba(0, 0, 0, 0.3);transform: scale(0.9);bottom:15px; left:20px;background:url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB2aWV3Qm94PSIwIDAgNjAgNjAiPjxwYXRoIGQ9Ik03LjEwNCAxNC4wMzJsMTUuNTg2IDEuOTg0YzAgMC0wLjAxOSAwLjUgMCAwLjk1M2MwLjAyOSAwLjc1Ni0wLjI2IDEuNTM0LTAuODA5IDIuMSBsLTQuNzQgNC43NDJjMi4zNjEgMy4zIDE2LjUgMTcuNCAxOS44IDE5LjhsMTYuODEzIDEuMTQxYzAgMCAwIDAuNCAwIDEuMSBjLTAuMDAyIDAuNDc5LTAuMTc2IDAuOTUzLTAuNTQ5IDEuMzI3bC02LjUwNCA2LjUwNWMwIDAtMTEuMjYxIDAuOTg4LTI1LjkyNS0xMy42NzRDNi4xMTcgMjUuMyA3LjEgMTQgNy4xIDE0IiBmaWxsPSIjMDA5ZDAwIi8+PHBhdGggZD0iTTcuMTA0IDEzLjAzMmw2LjUwNC02LjUwNWMwLjg5Ni0wLjg5NSAyLjMzNC0wLjY3OCAzLjEgMC4zNWw1LjU2MyA3LjggYzAuNzM4IDEgMC41IDIuNTMxLTAuMzYgMy40MjZsLTQuNzQgNC43NDJjMi4zNjEgMy4zIDUuMyA2LjkgOS4xIDEwLjY5OWMzLjg0MiAzLjggNy40IDYuNyAxMC43IDkuMSBsNC43NC00Ljc0MmMwLjg5Ny0wLjg5NSAyLjQ3MS0xLjAyNiAzLjQ5OC0wLjI4OWw3LjY0NiA1LjQ1NWMxLjAyNSAwLjcgMS4zIDIuMiAwLjQgMy4xMDVsLTYuNTA0IDYuNSBjMCAwLTExLjI2MiAwLjk4OC0yNS45MjUtMTMuNjc0QzYuMTE3IDI0LjMgNy4xIDEzIDcuMSAxMyIgZmlsbD0iI2ZmZmZmZiIvPjwvc3ZnPg==) center/45px 45px no-repeat #00bb00;}}#callnowbutton span{display:none;}</style>
+<!-- start Simple Custom CSS and JS -->
+<style type="text/css">
+#productom .man_product_photo img {
+    object-fit: unset !important;
+    height: 100%;
+    width: 100%;
+    vertical-align: unset !important;
+    border-radius: 0px !important;
+}
+#productom ul.products {
+    display: block !important;
+    grid-column-gap: unset !important;
+    grid-row-gap: unset !important;
+    grid-template-columns: unset !important;
+}
+#productom .man_product_cont {
+    position: relative;
+    padding-top: 0px !important;
+    padding-bottom: 0px !IMPORTANT;
+    background: white !important;
+    padding-left: 10px !important;
+  text-align: center;
+    padding-right: 10px !important;
+}
+#productom .man_product_photo.man_image_bck {
+    box-shadow: none !important;
+    transform: none !important;
+}
+#productom li {
+    width: 31.33% !important;
+    float: left;
+    height: 395px !important;
+}
+#productom a.button.product_type_simple.add_to_cart_button.ajax_add_to_cart {
+    display: block !important;
+    background: black !important;
+    border: none !important;
+    border-radius: 0px !important;
+    color: white !IMPORTANT;
+    position: absolute !important;
+    bottom: 0px !IMPORTANT;
+    margin: 0px !important;
+    box-shadow: none !important;
+    transition: none !IMPORTANT;
+  padding: 3% !important;
+  line-height: 18px !important;
+  font-size: 14px;
+    font-weight: bold !important;
+    font-family: open sans !important;
+    text-transform: uppercase;
+  transform: none !important;
+}
+#productom .add_to_cart_button:after {
+  
+    display: inline-block;
+    content: "\e60d";
+    font-family: themify;
+    margin-left: 10px;
+    -webkit-transform: scaleX(-1);
+    transform: scaleX(-1);
+    font-size: 21px;
+    float: right;
+}
+#productom span.woocommerce-Price-amount.amount {
+    font-weight: bold !important;
+    color: red !important;
+    font-size: 18px !important;
+}</style>
+<!-- end Simple Custom CSS and JS -->
+<!-- start Simple Custom CSS and JS -->
+<script type="text/javascript">
+jQuery(document).ready(function() {
+ jQuery('.jet-woo-product-button a').text("Adauga in cos");
+ jQuery('.archive a.button.product_type_simple.add_to_cart_button.ajax_add_to_cart').text("Adauga in cos");
+ jQuery('#productom a.button.product_type_simple.add_to_cart_button.ajax_add_to_cart').text("Adauga in cos");
+
+});</script>
+<!-- end Simple Custom CSS and JS -->
+<!-- start Simple Custom CSS and JS -->
+<script type="text/javascript">
+jQuery(document).ready(function( $ ){
+$(".flex-control-thumbs li").each(function(){$(this).attr("style","margin-bottom:10px !important;");});
+});</script>
+<!-- end Simple Custom CSS and JS -->
+<link rel="apple-touch-icon" sizes="76x76" href="../images/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="../images/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="../images/favicon-16x16.png">
+<link rel="manifest" href="/wp-content/uploads/fbrfg/site.webmanifest">
+<link rel="shortcut icon" href="../favicon.ico">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="msapplication-config" content="/wp-content/uploads/fbrfg/browserconfig.xml">
+<meta name="theme-color" content="#ffffff"><script type="text/javascript">window.wp_data = {"stm_ajax_add_review":"d79b9d60e7","pearl_install_plugin":"d4388a483f"};</script>	<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
+			<style type="text/css" id="wp-custom-css">
+			/* Styling add to quote button on archive and shop pages */
+.archive .button.alt.addquotelistbutton.product_type_simple {
+	    background-color: black !important;
+    padding: 8px !important;
+    color: white !important;
+	width: 87%;
+}
+.archive .man_product_cont a {
+	text-align:center;
+}
+.elementor-editor-active .man_sidebar_col, .page-id-1356 .return-to-shop, .archive .man_shop_info {
+display:none !important;
+}
+.flex-control-thu mbs li {
+	margin: 0px 0px 10px 0px !important;
+}
+.search-field {
+	width:50%;
+}
+.page-id-1356 #content {
+    padding-bottom: 0px;
+    padding-top: 200px;
+}
+@media screen and (max-width:768px){
+	.page-id-1356 #content {
+    padding-bottom: 0px;
+    padding-top: 300px !important;
+}
+}
+.sm_nav_menu > li ul ul {
+    left: 250px;
+}
+
+
+
+
+div#sm_menu ul.sub-menu {
+    background: #303030 !important;
+    border-radius: 0px !important;
+    margin-bottom: 0px !important;
+    padding-bottom: 0px !important;
+    padding-top: 0px !important;
+}
+div#sm_menu ul.sub-menu li a {
+    color: white !important;
+    line-height: 23px !important;
+	font-size: 14px;
+}
+div#sm_menu .sm_nav_menu > li ul li {
+     border-bottom: 1px solid;
+}
+
+.sm_nav_menu > li ul:before, .man_widget_shopping_cart_content:before,.sm_nav_menu > li ul:before, .man_widget_shopping_cart_content:before {
+	visibility:hidden;
+}
+#menu-item-1333 > ul {
+    left: -32px !important;
+}
+#masthead > div > div > div > section.elementor-element.elementor-element-12dec98.elementor-section-content-middle.elementor-section-boxed.elementor-section-height-default.elementor-section-height-default.elementor-section.elementor-top-section > div > div > div.elementor-element.elementor-element-031f8f8.elementor-column.elementor-col-50.elementor-top-column > div{
+	padding:0px
+}
+
+#menu-item-1333 > a {
+    padding: 17px;
+}
+.sm_nav_menu > li ul ul {
+  
+    top: 0 !important;
+    margin-top: 0px !important;
+}
+#page .man_intro .man_intro_cont {
+    display: block;
+}
+#content {
+    padding-bottom: 0px;
+    padding-top:  0px;
+    clear: both;
+}
+#page .man_intro .man_intro_cont {
+    display: block;
+    padding-top: 0px !important;
+    visibility: hidden;
+}
+@media (min-width: 300px) and (max-width: 1021px) { 
+
+div#sm_menu ul.sub-menu {
+    background: #303030 !important;
+    border-radius: 0px !important;
+    margin-bottom: 0px !important;
+    padding-bottom: 0px !important;
+    padding-top: 0px !important;
+    max-width: 100% !important;
+    width: auto !important;
+    text-align: center;
+    margin-right: 0px !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+    left: auto !important;
+    float: none !important;
+	}
+#menu-item-1333 > a:after {
+    margin-top: 16px;
+}
+	.sm_nav_menu > li ul li {
+    padding: 10px 0px!important;
+}
+	
+	
+	
+	
+	
+	 /*
+#masthead > div > div > div > section.elementor-element.elementor-element-12dec98.elementor-section-content-middle.elementor-section-boxed.elementor-section-height-default.elementor-section-height-default.elementor-section.elementor-top-section > div:after {
+    /* content: "Catalog produse";
+    /* float: right !important; 
+    color: white !important;
+    width: 100% !important;
+    padding-top: 15px;
+    font-size: 19px;
+    text-align: center;
+}	*/
+	#masthead > div > div > div > section.elementor-element.elementor-element-12dec98.elementor-section-content-middle.elementor-section-boxed.elementor-section-height-default.elementor-section-height-default.elementor-section.elementor-top-section > div .elementor-row {
+    width: auto !important;
+}
+	#menu-item-1333 > ul {
+    display: block;
+}
+}
+.page-id-1356om .woocommerce.woocommerce-cart {
+    
+}
+	.page-id-1356  #content {
+    padding-bottom: 0px;
+    padding-top: 0px !important;
+}
+	.page-id-1356   .woocommerce table.shop_table {
+    border: none !important;
+   
+    background: transparent !important;
+}
+.page-id-1356  .product-price, .page-id-1356  .product-quantity,.page-id-1356   .product-subtotal {
+    display: none;
+}
+
+
+@media (min-width: 1022px) { 
+.archive #page .man_intro .man_intro_cont {
+    z-index: 1;
+    visibility: visible !important;
+    text-align: center;
+    width: 800px;
+    max-width: 100%;
+    padding-top: 257px !important;
+    position: relative;
+    margin: 0 auto;
+    padding-bottom: 0px;
+}
+
+.archive #page .man_intro .man_intro_cont * {
+font-size: 35px !important; 
+	}
+.archive .man_intro.man_image_bck {
+    background: none !important;
+}
+	.archive .container {
+    padding-top: 0px !important;
+}
+	.single-product .elementor-section.elementor-section-stretched {
+  
+}
+
+}
+table.shop_table.shop_table_responsive.cart tr:not(.cart_item) {
+    background: #3C024D;
+    display: none;
+}
+a.btn {
+    margin-top: -8px !important;
+	 
+}
+input#searchsubmit {
+    background: black;
+}
+p#billing_first_name_field {
+    width: 100%;
+}
+li.woocommerce-notice.woocommerce-notice--info.woocommerce-info {
+    display: none;
+}
+.woocommerce-privacy-policy-text {
+    display: none;
+}
+ul.wc_payment_methods.payment_methods.methods {
+    /* display: none; */
+    border: none !important;
+}
+tr.cart-subtotal {
+    display: none;
+}
+.quantity {
+    margin-left: 7px !important;
+}
+
+.elementor-1379 .elementor-element.elementor-element-1d7f41c .elementor-jet-single-add-to-cart .variations {
+    max-width: 100% !important;
+}
+.woocommerce div.product form.cart .variations select {
+    max-width: 100%;
+    min-width: 75%;
+    display: inline-block;
+    margin-right: auto !important;
+    padding-top: 0px !important;
+    padding-bottom: 0px !important;
+    max-width: 45% !important;
+    min-width: 10% !important;
+    padding-left: 3px !important;
+    height: 36px !important;
+}
+
+
+@media (min-width: 768px)   {  
+div[data-id="ecdb706"] .ti-arrow-right:before {
+    content: "\e628";
+    content: "\e60d";
+    font-size: 30px;
+}
+div[data-id="ecdb706"] .ti-arrow-right  {
+-webkit-transform: scaleX(-1);
+  transform: scaleX(-1);
+}
+div[data-id="ecdb706"] a {
+    background: black !important;
+    border: none !IMPORTANT;
+    border-radius: 0px !important;
+}
+
+div[data-id="c600ffc"] {
+    width: 67% !important;
+}
+div[data-id="bf3eeb5"] {
+    display: none;
+}
+div[data-id="5f55164"] input#searchsubmit {
+    display: none;
+}
+div[data-id="c600ffc"] input#s ,div[data-id="aaed1cd"] input#s{
+    padding: 16px !important;
+    border-radius: 0 !important;
+    width: 100% !important;
+    padding-top: 13px !important;
+    padding-bottom: 13px !important;
+    margin-left: 0px !important;
+    float: left;
+}
+div[data-id="ecdb706"] a {
+    background: black !important;
+    padding-top: 12px!important;
+    border: none !IMPORTANT;
+    border-radius: 0px !important;
+    padding-bottom: 8px !important;
+}
+.elementor-element.elementor-element-ecdb706.elementor-hidden-phone.elementor-widget__width-auto.elementor-widget.elementor-widget-sm-default-button {
+    margin-top: -42px;
+	} 
+form#searchform::after {
+    content: "xxxxx";
+    content: "\e610";
+    font-family: 'themify';
+    position: absolute;
+    font-size: 23px;
+    top: 12px;
+    right: 10px;
+}
+	form#searchform {
+    width: 74%;
+    position: relative;
+}
+	div[data-id="ecdb706"] a:hover{background:#3C024D !important}
+
+	
+		.jet-woo-products__item.col-desk-4.jet-woo-builder-product {
+    border: 1px solid lightgrey;
+    
+    /* width: 25% !IMPORTANT; */
+    /* float: left; */
+    position: relative;
+  flex: 0 0 23%;
+    max-width: 23%;
+    margin-right: 2%;
+    padding: 0px;
+}
+	
+	
+	div[data-id="c600ffc"] {
+    position: relative !important;
+}
+div[data-id="b43ad7f"].om {
+    width: 60px !important;
+    float: right !IMPORTANT;
+    margin-top: 18px;
+    position: absolute;
+    z-index: 1111111111;
+    background: lightgrey;
+    padding-right: 10px;
+    height: 50px;
+}
+div[data-id="b43ad7f"] {
+    width: 60px !important;
+    float: right !IMPORTANT;
+    top: 66px;
+    position: absolute;
+    z-index: 1111111111;
+    background: lightgrey;
+    padding-right: 10px;
+    /* height: 50px; */
+     
+}
+
+.man_cart_block {
+    padding: 15px 0;
+    padding-top: 12px;
+}
+	section[data-id="e52a00e"] {
+    z-index: 11111111 !IMPORTANT;
+}
+	
+	
+	section[data-id="12dec98"] {
+    padding-top: 0px !important;
+    padding-bottom: 0px !important;
+}
+li.menu-item a {
+    line-height: 30px !important;
+}
+div#sm_menu ul.sub-menu {
+    background: #3C024D!important;
+   
+}
+div#sm_menu .sm_nav_menu > li ul li {
+    border-bottom: none !important;
+}
+.elementor-78 .elementor-element.elementor-element-74cd7b6 .sm_nav_menu > li {
+    padding: 11px 54px 10px 36px;
+}
+.sm_nav_menu > li ul li {
+    padding: 10px 30px!important;
+    padding-left: 23px !important;
+    padding-right: 23px !important;
+}
+.sm_nav_menu > li ul a:hover:before{display:none;}
+.sm_nav_menu > li ul a:hover {
+    transform: translateX(0px) !important;
+}
+	.jet-woo-products__item.col-desk-4.jet-woo-builder-product {
+    
+    height: 400px;
+}
+	div[data-id="aaed1cd"] input#s {
+    float: none !important;
+}
+div[data-id="aaed1cd"] form {
+    float: right;
+    width: 100% !important;
+}
+	
+	
+	
+	
+}
+
+
+
+
+a.button.product_type_simple.add_to_cart_button.ajax_add_to_cart {
+    display: block !important;
+    visibility: visible !important;
+    z-index: 100000000000;
+    position: relative !important;
+    opacity: 1 !important;
+}
+.archive .add_to_cart_button:after {
+     
+    transform: scaleX(-1);
+    font-size: 21px;
+    float: right;
+}
+.archive .man_product_cont a.button.product_type_simple.add_to_cart_button.ajax_add_to_cart{
+    position: absolute !important;
+    bottom: 0px !important;
+    background: black !important;
+    width: 100% !important;
+    left: 0;
+    text-align: center;
+    padding: 0px !important;
+    display: inline-block !important;
+    vertical-align: middle;
+    color: white !important;
+    z-index: 100000;
+    /* height: 100px !important; */
+    border: none !important;
+    border-radius: 0 !important;
+    line-height: 34px !important;
+    padding-right: 7px !important;
+	    margin-bottom: 0px !important; 
+}
+.man_product_cont, .man_product_cont {
+    transform: none !important;
+    /* display: block !important; */
+    /* position: relative !important; */
+    border: none !important;
+    bottom: 0;
+    position: absolute;
+    height: 43%;
+}
+	.woocommerce ul.products li.product, .woocommerce-page ul.products li.product {
+    margin-bottom: 0px !important;
+    padding-bottom: 0px !important;
+   width: 255.3px !important;
+height: 343px !important;
+    border: 0px solid lightgrey !important;
+    margin-right: 2% !important;
+	}
+	.man_product_photo.man_image_bck {
+    height: auto !important;
+}
+	.archive span.price * {
+    font-weight: bold !important;
+    color: red !important;
+    font-size: 18px !important;
+}
+
+
+
+
+
+ins span.woocommerce-Price-amount.amount,.jet-woo-product-price span.woocommerce-Price-amount.amount {
+    font-weight: bold !important;
+    color: red !important;
+    font-size: 18px !important;
+}
+.jet-woo-product-price  del span.woocommerce-Price-amount.amount {
+	 color: #4b4b4b !important;
+    font-weight: bold !important;
+    /* color: red !important; */
+    font-size: 15px !important;
+}
+
+	.jet-woo-products__item.col-desk-4.jet-woo-builder-product {
+    border: 1px solid lightgrey;
+   
+    /* width: 25% !IMPORTANT; */
+    /* float: left; */
+    position: relative;
+    
+    padding: 0px;
+}
+a.button.product_type_simple.add_to_cart_button {
+    position: absolute;
+    bottom: 0px !important;
+    background: black;
+    width: 100% !important;
+    left: 0;
+    text-align: center;
+    padding: 3%;
+    vertical-align: middle;
+    /* display: flex !important; */
+    /* justify-content: center; */
+    /* align-items: center; */
+    line-height: 18px !important;
+    /* display: table !important; */
+}
+.jet-woo-products__item.col-desk-4.jet-woo-builder-product .add_to_cart_button:after {
+    display: inline-block;
+    content: "\e60d";
+    font-family: themify;
+    margin-left: 10px;
+    -webkit-transform: scaleX(-1);
+    transform: scaleX(-1);
+    font-size: 21px;
+    float: right;
+ 
+}
+	
+.jet-woo-products .jet-woo-products__inner-box .jet-woo-product-title {
+    padding-left: 10px !important;
+    padding-right: 10px;
+}
+
+.jet-woo-product-button .button {
+    font-size: 14px;
+    font-weight: bold !important;
+    font-family: open sans !important;
+    text-transform: uppercase;
+}
+div[data-id="aaed1cd"] input#searchsubmit {
+    display: none;
+}
+
+
+.woocommerce-cart a.checkout-button.button.alt.wc-forward {
+	font-weight: bold !important; 
+    border-radius: 0px !important;
+    box-shadow: none !important;
+}
+.woocommerce #payment #place_order, .woocommerce-page #payment #place_order,form.cart button.single_add_to_cart_button.button.alt {
+    float: left;
+    border-radius: 0px !important;
+    box-shadow: 0 !important;
+	font-size: 17px;
+	color: black;
+    /* -webkit-transform: scaleX(-1); */
+    /* transform: scaleX(-1); */
+    padding: 0px !important;
+    line-height: 57px !important;
+    padding-left: 12px !important;
+    padding-right: 12px !important;
+}
+form.cart button.single_add_to_cart_button.button.alt {
+    /* padding-top: 12px !important; */
+    /* padding-bottom: 12px !important; */
+    line-height: 52px !important;
+}
+button#place_order::before,form.cart button.single_add_to_cart_button.button.alt::before  {
+    content: "\e60d";
+    font-size: 25;
+    -webkit-transform: scaleX(-1);
+    /* transform: scaleX(-1) !important; */
+    font-family: 'themify';
+    -webkit-transform: scaleX(-1);
+    transform: scaleX(-1);
+    float: left;
+    clear: right;
+    margin-right: 12px !important;
+}
+
+@media (min-width: 768px){
+.elementor-78 .elementor-element.elementor-element-74cd7b6 .sm_nav_menu > li {
+    padding: 11px 6px 10px 36px;
+	}}
+
+div[data-id="a31c796"] div#sm_menu ul.sub-menu {
+    z-index: 1111;
+    margin-top: 0px !important;
+    background: black !important;
+}
+div[data-id="a31c796"] .sm_nav_menu > li > a:before{}
+
+.stock {display:none;}
+#product-2335 > div > div > div > section.elementor-element.elementor-element-0692acd.elementor-section-stretched.elementor-section-boxed.elementor-section-height-default.elementor-section-height-default.elementor-section.elementor-top-section > div > div > div.elementor-element.elementor-element-6ebdd6a.elementor-column.elementor-col-50.elementor-top-column > div > div > div.elementor-element.elementor-element-9e073df.elementor-widget.elementor-widget-jet-single-price > div > div > p > span > span::after {
+content: '';
+	padding-left: 20px;
+font-size:15px;
+	color:black;
+}
+
+.elementor-78 .elementor-element.elementor-element-12dec98:not(.elementor-motion-effects-element-type-background), .elementor-78 .elementor-element.elementor-element-12dec98 > .elementor-motion-effects-container > .elementor-motion-effects-layer,#masthead > div > div > div > section.elementor-element.elementor-element-12dec98.elementor-section-content-middle.elementor-section-boxed.elementor-section-height-default.elementor-section-height-default.elementor-section.elementor-top-section > div > div > div > div {
+	background-color: #440C54 !important;
+}
+
+.btn, .btn:hover, div.wpforms-container-full .wpforms-form input[type=submit], div.wpforms-container-full .wpforms-form button[type=submit], div.wpforms-container-full .wpforms-form input[type=submit]:hover, div.wpforms-container-full .wpforms-form button[type=submit]:hover, .man_page button, .man_page [type="button"], .man_page [type="reset"], .man_page [type="submit"], .woocommerce div.product form.cart .button, .woocommerce div.product form.cart .button:hover, body div.wpforms-container-full .wpforms-form button[type=submit], body div.wpforms-container-full .wpforms-form button[type=submit]:hover, .woocommerce #review_form #respond .form-submit input, .woocommerce #review_form #respond .form-submit input:hover, .woocommerce ul.products li.product .button, .woocommerce ul.products li.product .button:hover, .woocommerce #respond input#submit, .man_page .woocommerce a.button, .woocommerce button.button, .woocommerce input.button, .woocommerce #respond input#submit:hover, .man_page .woocommerce a.button:hover, .woocommerce button.button:hover, .woocommerce input.button:hover, .cart button, .woocommerce-cart .wc-proceed-to-checkout a.checkout-button, .woocommerce_checkout_place_order, .woocommerce button.button.alt, .products .man_product_photo .added_to_cart, .man_page input[type="text"], .man_page input[type="email"], .man_page input[type="url"], .man_page input[type="password"], .man_page input[type="search"], .man_page input[type="number"], .man_page input[type="tel"], .man_page input[type="range"], .man_page input[type="date"], .man_page input[type="month"], .man_page input[type="week"], .man_page input[type="time"], .man_page input[type="datetime"], .man_page input[type="datetime-local"], .man_page input[type="color"], .man_page textarea, .man_page select, .input-text, .added_to_cart, .woocommerce a.added_to_cart, .man_product_cont_desc .button, .add_to_cart_button, .add_to_cart_button:hover, .product_type_simple:hover, .product_type_simple, .wp-block-button__link, .added_to_cart, .added_to_cart:hover, .man_product_cont .button {
+    font-family: Montserrat;
+    line-height: 17px;
+    font-weight: 400;
+    font-style: normal;
+    color: #fff;
+    font-size: 16px;
+}
+.btn, div.wpforms-container-full .wpforms-form input[type=submit], div.wpforms-container-full .wpforms-form button[type=submit], .man_page button, .man_page [type="button"], [type="reset"], .man_page [type="submit"], .woocommerce div.product form.cart .button, body div.wpforms-container-full .wpforms-form button[type=submit], .woocommerce #review_form #respond .form-submit input, .woocommerce ul.products li.product .button, .woocommerce #respond input#submit, .man_page .woocommerce a.button, .woocommerce button.button, .woocommerce input.button, .woocommerce-cart .wc-proceed-to-checkout a.checkout-button, .woocommerce_checkout_place_order, .woocommerce button.button.alt, .products .man_product_photo .added_to_cart, .added_to_cart, .woocommerce a.added_to_cart, .man_product_cont_desc a.button, .add_to_cart_button, .product_type_simple, .wp-block-button__link, .added_to_cart{
+	padding:10px;
+	background-color:#440C54 !important;
+}
+
+.product img{
+	height: 200px
+}
+
+#content{
+	background-color: white;
+}
+
+.has-post-thumbnail.shipping-taxable.product-type-simple > div.man_product_cont > a.button.product_type_simple{display:none;}
+
+#main > ul > li.product.type-product.status-publish.instock.has-post-thumbnail.shipping-taxable.product-type-simple,.elementor-section-stretched.elementor-section-boxed.elementor-section-height-default.elementor-section-height-default.elementor-section.elementor-top-section > div > div > div > div > div > div > div > div > section > ul > li.product.type-product.status-publish.has-post-thumbnail.shipping-taxable.purchasable.product-type-simple{
+	border:0px solid lightgrey !important;
+}
+
+li.product .man_product_photo{
+	box-shadow: none !important;
+}
+@media only screen and (max-width: 768px){
+	#s{
+		position:relative;
+		right: 110px;
+			width:180px;
+	}
+	
+	#searchsubmit{
+		position:relative;
+		bottom: 48px;
+	}
+}
+.products > li,.man_product_photo,.man_image_bck,a,.man_product_cont{
+	transition:none !important;
+	-o-transition: none;
+	-webkit-transition:none;
+}
+
+.recomandate div.man_product_cont > a:nth-child(1) > span.price > span,.recomandate div.man_product_cont > a.button.product_type_simple.add_to_cart_button.ajax_add_to_cart
+{
+	display:none !important;
+}
+
+.woocommerce-mini-cart__buttons.buttons,#masthead > div > div > div > section.elementor-element.elementor-element-e52a00e.elementor-section-content-middle.elementor-section-boxed.elementor-section-height-default.elementor-section-height-default.elementor-section.elementor-top-section > div > div > div.elementor-element.elementor-element-c600ffc.elementor-column.elementor-col-25.elementor-top-column > div > div > div.elementor-element.elementor-element-b43ad7f.elementor-hidden-tablet.elementor-hidden-phone.elementor-widget.elementor-widget-sm-basket > div > div > div > div > div > p.woocommerce-mini-cart__buttons.buttons > a:nth-child(1),#masthead > div > div > div > section.elementor-element.elementor-element-e52a00e.elementor-section-content-middle.elementor-section-boxed.elementor-section-height-default.elementor-section-height-default.elementor-section.elementor-top-section > div > div > div.elementor-element.elementor-element-c600ffc.elementor-column.elementor-col-25.elementor-top-column > div > div > div.elementor-element.elementor-element-b43ad7f.elementor-hidden-tablet.elementor-hidden-phone.elementor-widget.elementor-widget-sm-basket > div > div > div > div > div > p.woocommerce-mini-cart__buttons.buttons > a.button.checkout.wc-forward{
+	background-color: white !important;
+	
+}
+
+.woocommerce .woocommerce-mini-cart__buttons .button{
+	font-size:15px !important;
+}
+div[data-id="b43ad7f"] * {
+    text-align: center;
+}
+div[data-id="b43ad7f"] {
+    margin-right: 0px !important;
+    padding-right: 0px !important;
+    background: #cdaa6a;
+}
+/*
+div[data-id="b43ad7f"] .man_cart_block .ti {
+    display: inline-block;
+    vertical-align: middle;
+    -webkit-transform: scaleX(-1) !important;
+    transform: scaleX(-1) !important;
+    font-weight: bold  !important;
+}*/
+span.man_cart-items-count.count {
+    font-weight: bold !important;
+}
+
+.woocommerce form.cart button.single_add_to_cart_button.button.alt {
+    background-color: black !important;
+    border-color: #cdaa6a !important;
+    border: 1px solid #cdaa6a;
+    line-height: 49px !important;
+    color: #cdaa6a !important;
+    /* padding-top: 3px !important; */
+    width: 232px !important;
+    text-transform: uppercase !important;
+  font-family: "eb garamond" !important;
+	    font-size: 28x !important;
+    font-weight: 800 !important;
+}
+.woocommerce form.cart button.single_add_to_cart_button.button.alt::before {
+    -webkit-transform: scaleX( 1);
+    transform: scaleX(1);
+}
+.woocommerce .quantity .qty {
+     border-color: #cdaa6a !important;
+    width: 82px !important;
+    border-radius: 0px !important;
+}
+
+
+div#sm_menu ul.sub-menu {
+    background: #000!important;
+    border: 1px solid #D1AE6C !important;
+	    z-index: 111111; 
+}
+.products_grid_type .man_product_cont h3 {
+    font-size: 20px !important;
+    color: black !important;
+}
+.products_grid_type .man_product_cont .woocommerce-Price-amount {
+    font-size: 18px !important;
+}
+.archive .add_to_cart_button:after {
+      width: 0;
+    visibility: hidden;
+    margin: 0;
+    padding: 0;
+}
+
+
+.archive .man_intro {
+  
+    box-shadow: none !important;
+    border: none !important;
+}
+
+.archive .man_product_cont a.button.product_type_simple.add_to_cart_button.ajax_add_to_cart {
+    display: none !important;
+}
+
+ 
+.archive #page .man_intro .man_intro_cont {
+     padding-top: 190px !important;
+  }
+
+.woocommerce ul.products li.product, .woocommerce-page ul.products li.product {
+     height: 343px;
+}
+
+.archive ul.products.products_grid_type.columns-4 {
+    margin-top: 20px !important;
+}
+ 
+.single.woocommerce ul.products li.product, single.woocommerce-page ul.products li.product {
+    height: 263px;
+}
+.single.woocommerce ul.products li.product .man_product_cont {
+    height: 24% !important;
+}
+.woocommerce div.product div.images .woocommerce-product-gallery__trigger {
+  background:#FFFFFF;
+  border-radius:100%;
+  box-sizing:content-box;
+  display:none;
+  font-size:2em;
+  height:36px;
+  position:absolute;
+  right:0.5em;
+  text-indent:-9999px;
+  top:0.5em;
+  width:36px;
+  z-index:9;
+}
+
+.man_product_cont {
+  text-align:center;
+}
+
+.archive span.price * {
+  color:black !important;
+  font-size:18px !important;
+  font-weight:bold !important;
+}
+
+.products_grid_type .man_product_cont h3 {
+  color:black !important;
+  font-size:23px !important;
+}
+
+.products_grid_type .man_product_cont h3 {
+  margin-top:20 !important;
+  padding-top:20 !important;
+}
+
+.man_product_cont h3 {
+  margin-bottom:15px !important;
+  padding-bottom:0 !important;
+}
+
+.wcspc-count, .wcspc-area {
+  background:#000000;
+}
+
+.wcspc-count span, .wcspc-area-bot .wcspc-action .wcspc-action-inner > div a {
+  background:#CFAB6B;
+}
+
+.wcspc-area-bot .wcspc-action .wcspc-action-inner > div a {
+  background-color:#CFAB6B;
+  box-sizing:border-box;
+  color:#ffffff;
+  display:inline-block;
+  font-weight:700;
+  height:50px;
+  line-height:46px;
+  text-align:center;
+  text-decoration:none;
+  text-transform:uppercase;
+  transition:all 0.5s ease 0s;
+  width:100%;
+}
+
+.wcspc-area .wcspc-area-bot .wcspc-total .wcspc-total-inner > div.wcspc-total-right {
+  font-size:21px;
+  font-weight:700;
+  text-align:right;
+}
+
+.wcspc-area .wcspc-area-bot .wcspc-total .wcspc-total-inner > div.wcspc-total-left {
+  font-size:21px;
+  text-align:left;
+} 
+
+.container {
+  margin-left:auto;
+  margin-right:auto;
+  padding:2px 15px;
+  position:relative;
+  width:100%;
+}
+
+.editor-styles-wrapper p, ul.editor-rich-text__editable, footer {
+  color:#4B4B4B;
+  font-family:"Open Sans";
+  font-size:17px;
+  font-style:normal;
+  font-weight:400;
+  line-height:8px;
+}
+
+/*buguit*/
+.btn, div.wpforms-container-full .wpforms-form input[type="submit"], div.wpforms-container-full .wpforms-form button[type="submit"], .man_page button, .man_page [type="button"], [type="reset"], .man_page [type="submit"], .woocommerce div.product form.cart .button, body div.wpforms-container-full .wpforms-form button[type="submit"], .woocommerce #review_form #respond .form-submit input, .woocommerce ul.products li.product .button, .woocommerce #respond input#submit, .man_page .woocommerce a.button, .woocommerce button.button, .woocommerce input.button, .woocommerce-cart .wc-proceed-to-checkout a.checkout-button, .woocommerce_checkout_place_order, .woocommerce button.button.alt, .products .man_product_photo .added_to_cart, .added_to_cart, .woocommerce a.added_to_cart, .man_product_cont_desc a.button, .add_to_cart_button, .product_type_simple, .wp-block-button__link, .added_to_cart {
+  background-color:white !important;
+  padding:10px;
+}
+
+ins span.woocommerce-Price-amount.amount, .jet-woo-product-price span.woocommerce-Price-amount.amount {
+  color:black !important;
+  font-size:15px !important;
+  font-weight:bold !important;
+}
+
+@media (min-width: 2560px)  {
+	#wcspc-count{
+		top: 70px;
+		left:2000px;
+	}
+}
+
+
+@media (min-width: 1680px)  and (max-width:2559px){
+	#wcspc-count{
+		top: 70px;
+		left:1450px;
+	}
+}
+
+
+@media (min-width: 1440px) and (max-width: 1679px) {
+	#wcspc-count{
+		top: 70px;
+		left:1200px;
+	}
+}
+
+
+@media (min-width: 1280px) and (max-width: 1439px){
+	#wcspc-count{
+		top: 70px;
+		left:1175px;
+	}
+}
+
+
+@media (min-width: 1026px) and (max-width: 1279px) {
+	#wcspc-count{
+		top: 70px;
+		left:275px;
+	}
+}
+
+
+@media (min-width: 1026px) {
+
+	
+#customer_details > div.col-2{
+	top:900px;
+	right:580px;
+}
+
+#order_review_heading{
+position: relative;
+		left:550px;
+	top:-920px
+}
+
+#order_review{
+	width:50%;
+	position: relative;
+	left: 550px;
+	top: -920px;
+	}
+
+	}
+
+
+.man_cart_block a{
+	color:red;
+}
+
+.ti-shopping-cart{
+	font-size:24px; 
+	speak:none;
+	font-weight: normal;
+	-webkit-font-smoothing: antialiased;
+}
+
+.ti-shopping-cart:before{
+	content: "\E800" !important;
+	    font-family: 'ata_smart_fly_cart' !important;
+	color:white;
+box-sizing: inherit;
+}
+.man_cart-items-count {
+	color:white;
+}
+
+#elementor-header-primary > button{
+	color:black;
+	text-align:Center;
+	background-color:#DDB46B  !important;
+	border-radius: 0px;
+}
+
+
+@media (max-width: 1026px) {
+.menu-item-has-children > a:after{
+	content:" ";
+	}
+
+	#menu-item-3504,#menu-item-3505,#menu-item-6033,#menu-item-6034,#menu-item-5724{
+		padding: 6px !important;
+
+	}
+	#menu-item-3504 a,#menu-item-3505 a,#menu-item-6033 a,#menu-item-6034 a,#menu-item-5724 a{
+			text-align:center !important;
+		font-size:20px;
+		margin:0px;
+}
+}
+
+.jet-woo-product-price, div.man_product_cont > a > span.price,.elementor-widget-woocommerce-product-price > div > p, .elementor-widget-woocommerce-product-add-to-cart{
+	display:none !important;
+}
+	#content > div > div > div > section > div > div > div > div > div > div.elementor-element.elementor-element-8f19a6f.elementor-button-align-center.elementor-widget.elementor-widget-form > div > form > div > div.elementor-field-group.elementor-column.elementor-field-type-submit.elementor-col-100 > button > span > span.elementor-button-text{
+		color:black;
+}
+
+@media (min-width: 300px) and (max-width: 1200px){
+.archive #page .man_intro .man_intro_cont, #page > div.man_intro.man_image_bck > div.man_intro_cont > h1,#page > div.man_intro.man_image_bck > div.man_intro_cont {
+   visibility:visible !important;
+}
+
+	#stm_gdpr_popup-main{
+		width:75%;
+		padding:10px;
+		margin-left:25px;
+		text-align:center;
+		
+	}
+/*	
+	#stm_gdpr_popup-main{	
+
+		width:70%;
+		height: 30%;
+		font-size: 75%;
+	
+	}*/
+
+
+	#stm_gdpr_popup-main > div.stm_gdpr_popup-links > a.stm_gdpr_popup-privacy{
+	/*
+		width:150px;
+		height: 35px;
+		top: -55px;
+		margin-left:-10px;
+		left:75px;
+		text-align:center;
+		font-size: 75%;*/
+	}
+	
+	#stm_gdpr_popup_accept{
+		/*width: 40%;
+		left:-15px;
+		font-size: 75%;*/
+	}
+	
+	/*
+   
+	#stm_gdpr_popup_accept:before{
+		content:"";}*/
+	
+ div.man_product_cont{
+padding-bottom: 0px;
+	height: 100px;}
+	
+li.has-post-thumbnail.shipping-taxable.purchasable.product-type-simple{
+		height: 300px !important;
+	}
+.archive #page .man_intro .man_intro_cont h1{
+			font-size: 36px !important;
+			line-height: 38px !important;
+margin-bottom: -100px;
+	}
+
+}
+
+#page > div.man_intro.man_image_bck > div.man_over{
+	background-color:#F8F6F5;
+		border-bottom: 1px solid #E7E7E7;
+
+}
+
+.archive #page .man_intro .man_intro_cont h1{
+	font-size: 36px !important;
+	font-weight: 700 !important;
+	letter-spacing: -0.7px;
+	line-height: 33px;
+	font-family: "EB Garamond";
+	  text-transform: capitalize;
+	color:black;
+	padding-top: 25px;
+	padding-bottom:40px;
+
+}
+#stm_gdpr_popup_accept,#stm_gdpr_popup-main > div.stm_gdpr_popup-links > a.stm_gdpr_popup-privacy{
+	background-color: black !important;
+	color:#D1AD6C !important;
+}
+#stm_gdpr_popup-main > div.stm_gdpr_popup-links > a.stm_gdpr_popup-privacy:hover, #stm_gdpr_popup_accept:hover{
+	background-color:#D1AD6C !important;
+	color: black !important;
+}
+
+ div.man_product_cont > a.button.product_type_simple.add_to_cart_button.ajax_add_to_cart,#content > div > div > div > section.elementor-element.elementor-element-1669344.elementor-section-boxed.elementor-section-height-default.elementor-section-height-default.elementor-section.elementor-top-section > div > div > div > div > div > div > div > div > div:nth-child(1){
+	display:none !important;
+}
+.man_product_photo img{
+	border-radius: 0px!important;
+}
+
+#masthead > div > div > div > section.elementor-element.elementor-element-e52a00e.elementor-section-content-middle.elementor-section-boxed.elementor-section-height-default.elementor-section-height-default.elementor-section.elementor-top-section > div.elementor-container.elementor-column-gap-default > div > div.elementor-element.elementor-element-fcaeb2e.elementor-column.elementor-col-25.elementor-top-column > div > div > div > div > div > a > img{
+	width:246px
+}		</style>
+		<style type="text/css" title="dynamic-css" class="options-output">.man_page, .site-content{background-color:#ffffff;}.man_page .man_sidebar:before, .man_page article.sticky .man_news_item_cont_list, .man_page .page-links a, .man_page table tr{background-color:#ffffff;}.man_404_section{background-color:#001443;}.man_intro .man_over{background-color:rgba(255,255,255,0.68);}.man_news_item_title h3 a:hover, .input[type="text"] a:hover, .elementor-widget ul.menu li a:hover, .elementor-widget ul.menu a:before, .man_single_page_footer span a, .man_single_page_footer span:before, .sm_nav_menu > li ul a:hover, .sm_nav_menu > li ul a:hover:before, .man_single_page_footer span, .woocommerce div.product .woocommerce-tabs ul.tabs li.active a, .woocommerce-LoopProduct-link:hover h3, .widget ul a:hover, .elementor-widget ul.menu a:before, .widget ul:not(.product_list_widget) a:hover:before, .btn_inline_style, .man_number_block_title span, .man_vertical_products h5,  .woocommerce ul.man_vertical_products_default li.product .man_product_cont h3, .man_demos:hover .man_demos_title, .woocommerce-message:before, .woocommerce-info:before, .man_news_item_date a:hover, .man_map_pin_cont b, .woocommerce-LoopProduct-link:hover, .breadcrumbs a:hover, .man_page h3 a, .man_navigation .current, .eicon-play:before{color:#d1ad6c;}.man_navigation span:after, .elementor-widget ul.menu a:after, .man_single_page_footer span:after, .sm_nav_menu > .current-menu-item > a:before, .sm_nav_menu > .current-menu-parent > a:before, .sm_nav_menu > .current_page_parent > a:before, .sm_nav_menu > li ul a:hover:after, .woocommerce div.product .woocommerce-tabs ul.tabs li.active:after, .widget ul:not(.product_list_widget) a:after, .widget ul:not(.product_list_widget) a:after, .widget ul.woocommerce-widget-layered-nav-list li:hover span, .widget_categories ul li:hover span, .widget ul li.chosen span, .cat-item:hover span.count, body:after, .btn_inline_style:before, .btn_inline_style:after, .woocommerce-mini-cart__buttons .button:before, .man_timeline_point, .man_map_point_border, .man_map_point_second_border, .man_map_pin span.man_map_point, .man_map_pin span.man_map_point_second_border, .man_bordered_block a:hover, .sm_nav_menu > li > a:before, .man_timeline_pin_cont, .page-links a:hover, .man_page table thead tr, .sm_video_link span i:after, .sm_video_link span b:after{background-color:#d1ad6c;}.owl-dot.active span, .man_search_block_bg .search-form .search-form-text{border-color:#d1ad6c;}.woocommerce-message, .woocommerce-info{border-top-color:#d1ad6c;}.man_timeline_pin_cont_corner svg, .man_map_pin:hover svg path, .man_map.active .man_map_pins .man_map_pin_wrapper:first-child .man_map_pin svg path{fill:#d1ad6c;}.man_page h1, .man_page h1 a{font-family:"EB Garamond";text-transform:uppercase;line-height:55px;font-weight:700;font-style:normal;color:#333;font-size:45px;}.man_page h2, .man_page h2 a, .elementor-widget-heading.elementor-widget-heading h2.elementor-heading-title, .man_timeline_pin_cont, .man_page blockquote, address, .man_timeline_pin_title, .editor-post-title__block .editor-post-title__input, h2.editor-rich-text__editable{font-family:"EB Garamond";text-transform:uppercase;line-height:45px;font-weight:700;font-style:normal;color:#333;font-size:35px;}.man_page h3, .elementor-widget-heading.elementor-widget-heading h3.elementor-heading-title, .woocommerce div.product p.price, .woocommerce div.product span.price, .comment-reply-title, .woocommerce ul.products li.product .woocommerce-loop-category__title, .woocommerce ul.products li.product .woocommerce-loop-product__title, .woocommerce ul.products li.product h3, .wp-block-heading h3{font-family:"EB Garamond";line-height:33px;font-weight:400;font-style:normal;color:#333;font-size:27px;}.man_page h4, .man_page h4 a, .elementor-widget-heading.elementor-widget-heading h4.elementor-heading-title, h3.widget-title, .wp-block-heading h4{font-family:"Open Sans";line-height:28px;font-weight:400;font-style:normal;color:#333;font-size:22px;}.man_page h5, .man_page h5 a, .elementor-widget-heading.elementor-widget-heading h5.elementor-heading-title{font-family:"EB Garamond";line-height:26px;font-weight:400;font-style:normal;color:#333;font-size:22px;}.man_page h6, .man_page h6 a, .elementor-widget-heading.elementor-widget-heading h6.elementor-heading-title{font-family:"EB Garamond";line-height:24px;font-weight:400;font-style:normal;color:#333;font-size:22px;}h2:after{margin-top:20px;}h2, .elementor-widget-heading h2.elementor-heading-title{margin-top:0;margin-bottom:13px;}body .man_page, .elementor-widget-text-editor, .man_page input, textarea, .woocommerce-ordering .man_page select, .man_cart_block a, .man_news_item_date a, .man_news_item_date, .widget ul:not(.product_list_widget) a:before, .woocommerce-product-details__short-description p, .editor-default-block-appender textarea.editor-default-block-appender__content, .editor-styles-wrapper p, ul.editor-rich-text__editable, footer{font-family:"Open Sans";line-height:24px;font-weight:400;font-style:normal;color:#4b4b4b;font-size:14px;}.btn, div.wpforms-container-full .wpforms-form input[type=submit], div.wpforms-container-full .wpforms-form button[type=submit], .man_page button, .man_page [type="button"], [type="reset"], .man_page [type="submit"], .woocommerce div.product form.cart .button, body div.wpforms-container-full .wpforms-form button[type=submit], .woocommerce #review_form #respond .form-submit input, .woocommerce ul.products li.product .button, .woocommerce #respond input#submit, .man_page .woocommerce a.button, .woocommerce button.button, .woocommerce input.button, .woocommerce-cart .wc-proceed-to-checkout a.checkout-button, .woocommerce_checkout_place_order, .woocommerce button.button.alt, .products .man_product_photo .added_to_cart, .added_to_cart, .woocommerce a.added_to_cart, .man_product_cont_desc a.button, .add_to_cart_button, .product_type_simple, .wp-block-button__link, .added_to_cart{background-color:#d50000;}.btn:hover, div.wpforms-container-full .wpforms-form input[type=submit]:hover, div.wpforms-container-full .wpforms-form button[type=submit]:hover, .man_page button:hover, .man_button [type="button"]:hover, [type="reset"]:hover, .man_page [type="submit"]:hover, .woocommerce div.product form.cart .button:hover, body div.wpforms-container-full .wpforms-form button[type=submit]:hover, .woocommerce #review_form #respond .form-submit input:hover, .woocommerce ul.products li.product .button:hover, .woocommerce #respond input#submit:hover, .man_page .woocommerce a.button:hover, .woocommerce button.button:hover, .woocommerce input.button:hover, .woocommerce-cart .wc-proceed-to-checkout a.checkout-.man_page button:hover, .woocommerce_checkout_place_order:hover, .woocommerce button.button.alt:hover, .products .man_product_photo .added_to_cart:hover, .added_to_cart:hover, .woocommerce a.added_to_cart:hover, .man_product_cont_desc .button:hover, .add_to_cart_.man_page button:hover, .product_type_simple:hover, .wp-block-button__link:hover, .added_to_cart:hover, .products-default .man_product_cont_desc a:hover{background-color:#c40000;}.btn, .btn:hover, div.wpforms-container-full .wpforms-form input[type=submit], div.wpforms-container-full .wpforms-form button[type=submit], div.wpforms-container-full .wpforms-form input[type=submit]:hover, div.wpforms-container-full .wpforms-form button[type=submit]:hover, .man_page button, .man_page [type="button"], .man_page [type="reset"], .man_page [type="submit"], .woocommerce div.product form.cart .button, .woocommerce div.product form.cart .button:hover, body div.wpforms-container-full .wpforms-form button[type=submit], body div.wpforms-container-full .wpforms-form button[type=submit]:hover, .woocommerce #review_form #respond .form-submit input, .woocommerce #review_form #respond .form-submit input:hover, .woocommerce ul.products li.product .button, .woocommerce ul.products li.product .button:hover, .woocommerce #respond input#submit, .man_page .woocommerce a.button, .woocommerce button.button, .woocommerce input.button, .woocommerce #respond input#submit:hover, .man_page .woocommerce a.button:hover, .woocommerce button.button:hover, .woocommerce input.button:hover, .cart button, .woocommerce-cart .wc-proceed-to-checkout a.checkout-button, .woocommerce_checkout_place_order, .woocommerce button.button.alt, .products .man_product_photo .added_to_cart, .man_page input[type="text"], .man_page input[type="email"], .man_page input[type="url"], .man_page input[type="password"], .man_page input[type="search"], .man_page input[type="number"], .man_page input[type="tel"], .man_page input[type="range"], .man_page input[type="date"], .man_page input[type="month"], .man_page input[type="week"], .man_page input[type="time"], .man_page input[type="datetime"], .man_page input[type="datetime-local"], .man_page input[type="color"], .man_page textarea, .man_page select, .input-text, .added_to_cart, .woocommerce a.added_to_cart, .man_product_cont_desc .button, .add_to_cart_button, .add_to_cart_button:hover, .product_type_simple:hover, .product_type_simple, .wp-block-button__link, .added_to_cart, .added_to_cart:hover, .man_product_cont .button{font-family:"Open Sans";line-height:17px;font-weight:400;font-style:normal;color:#fff;font-size:16px;}.man_news_item_img{height:320px;}.man_nav_over{background-color:rgba(51,51,51,0.33);}.nav-box:hover .man_nav_over{background-color:rgba(51,51,51,0.75);}.man_woo_cat_item_over, .products .man_product_photo a.woocommerce-LoopProduct-link:after, .products_grid_type .man_product_photo:after{background-color:rgba(51,51,51,0.35);}.man_woo_cat_item:hover .man_woo_cat_item_over{background-color:rgba(51,51,51,0.75);}.man_woo_cat_item_cont .man_woo_cat_item_cont_name{color:#fff;}.elementor-widget-sm-woo-categories .man_woo_cat_item, .man_service_block_II a{height:250px;}</style>      
+        <script type="text/javascript">
+            if (typeof woof_lang_custom == 'undefined') {
+                var woof_lang_custom = {};/*!!important*/
+            }
+            woof_lang_custom.stock = "In stock";
+        </script>
+                <script type="text/javascript">
+            var woof_is_permalink =1;
+
+            var woof_shop_page = "";
+        
+            var woof_really_curr_tax = {};
+            var woof_current_page_link = location.protocol + '//' + location.host + location.pathname;
+            //***lets remove pagination from woof_current_page_link
+            woof_current_page_link = woof_current_page_link.replace(/\page\/[0-9]+/, "");
+                            woof_current_page_link = "https://tiptop.ro/shop/";
+                            var woof_link = 'https://tiptop.ro/wp-content/plugins/woocommerce-products-filter/';
+
+                </script>
+
+                <script>
+
+            var woof_ajaxurl = "https://tiptop.ro/wp-admin/admin-ajax.php";
+
+            var woof_lang = {
+                'orderby': "orderby",
+                'date': "date",
+                'perpage': "per page",
+                'pricerange': "price range",
+                'menu_order': "menu order",
+                'popularity': "popularity",
+                'rating': "rating",
+                'price': "price low to high",
+                'price-desc': "price high to low"
+            };
+
+            if (typeof woof_lang_custom == 'undefined') {
+                var woof_lang_custom = {};/*!!important*/
+            }
+
+            //***
+
+            var woof_is_mobile = 0;
+        
+
+
+            var woof_show_price_search_button = 0;
+            var woof_show_price_search_type = 0;
+        
+            var woof_show_price_search_type = 1;
+
+            var swoof_search_slug = "swoof";
+
+        
+            var icheck_skin = {};
+                                    icheck_skin.skin = "flat";
+                icheck_skin.color = "aero";
+                if (window.navigator.msPointerEnabled && navigator.msMaxTouchPoints > 0) {
+                    //icheck_skin = 'none';
+                }
+        
+            var is_woof_use_chosen =1;
+
+        
+
+            var woof_current_values = '[]';
+            //+++
+            var woof_lang_loading = "Loading ...";
+
+        
+            var woof_lang_show_products_filter = "show products filter";
+            var woof_lang_hide_products_filter = "hide products filter";
+            var woof_lang_pricerange = "price range";
+
+            //+++
+
+            var woof_use_beauty_scroll =0;
+            //+++
+            var woof_autosubmit =1;
+            var woof_ajaxurl = "https://tiptop.ro/wp-admin/admin-ajax.php";
+            /*var woof_submit_link = "";*/
+            var woof_is_ajax = 0;
+            var woof_ajax_redraw = 0;
+            var woof_ajax_page_num =1;
+            var woof_ajax_first_done = false;
+            var woof_checkboxes_slide_flag = true;
+
+
+            //toggles
+            var woof_toggle_type = "text";
+
+            var woof_toggle_closed_text = "-";
+            var woof_toggle_opened_text = "+";
+
+            var woof_toggle_closed_image = "https://tiptop.ro/wp-content/plugins/woocommerce-products-filter/img/plus3.png";
+            var woof_toggle_opened_image = "https://tiptop.ro/wp-content/plugins/woocommerce-products-filter/img/minus3.png";
+
+
+            //indexes which can be displayed in red buttons panel
+                    var woof_accept_array = ["min_price", "orderby", "perpage", "stock","pwb-brand","product_visibility","product_cat","product_tag","pa_gramaj"];
+
+        
+
+
+            //***
+            //for extensions
+
+            var woof_ext_init_functions = null;
+                        woof_ext_init_functions = '{"by_instock":"woof_init_instock"}';
+
+        
+
+        
+            var woof_overlay_skin = "default";
+
+            jQuery(function () {
+                try
+                {
+                    woof_current_values = jQuery.parseJSON(woof_current_values);
+                } catch (e)
+                {
+                    woof_current_values = null;
+                }
+                if (woof_current_values == null || woof_current_values.length == 0) {
+                    woof_current_values = {};
+                }
+
+            });
+
+            function woof_js_after_ajax_done() {
+                jQuery(document).trigger('woof_ajax_done');
+                    }
+        </script>
+        
+</head>
+
+<body data-rsssl="1" class="error404 wp-embed-responsive theme-manufacturer woocommerce-no-js ehf-header ehf-footer ehf-template-manufacturer ehf-stylesheet-manufacturer-child man_button_shadow hfeed no-sidebar elementor-default elementor-kit-5909">
+
+
+<div id="page" class="man_page " data-title="
+	135">
+	
+
+			<header id="masthead" itemscope="itemscope" itemtype="https://schema.org/WPHeader">
+			<p class="main-title bhf-hidden" itemprop="headline"><a href="https://tiptop.ro" title="Tip Top" rel="home">Tip Top</a></p>
+					<div data-elementor-type="wp-post" data-elementor-id="78" class="elementor elementor-78" data-elementor-settings="[]">
+			<div class="elementor-inner">
+				<div class="elementor-section-wrap">
+							<section class="elementor-element elementor-element-c45065c elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="c45065c" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-1d89e14 elementor-column elementor-col-50 elementor-top-column" data-id="1d89e14" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-5de0197 elementor-widget elementor-widget-text-editor" data-id="5de0197" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p><a href="tel:0213011550" data-wplink-edit="true">Comenzi telefonice la 021 301 1550</a></p></div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-36dc64c elementor-hidden-tablet elementor-hidden-phone elementor-column elementor-col-50 elementor-top-column" data-id="36dc64c" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-cc4203a elementor-shape-rounded elementor-widget elementor-widget-social-icons" data-id="cc4203a" data-element_type="widget" data-widget_type="social-icons.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-social-icons-wrapper">
+							<a class="elementor-icon elementor-social-icon elementor-social-icon-facebook elementor-repeater-item-d9892db" href="https://www.facebook.com/CofetariileTipTop" target="_blank">
+					<span class="elementor-screen-only">Facebook</span>
+					<i class="fab fa-facebook"></i>				</a>
+							<a class="elementor-icon elementor-social-icon elementor-social-icon-instagram elementor-repeater-item-0016f0b" href="https://www.instagram.com/tiptop_cofetarie/" target="_blank">
+					<span class="elementor-screen-only">Instagram</span>
+					<i class="fab fa-instagram"></i>				</a>
+					</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-e52a00e elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="e52a00e" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+							<div class="elementor-background-overlay"></div>
+							<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-fcaeb2e elementor-column elementor-col-20 elementor-top-column" data-id="fcaeb2e" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-4f3a1ad elementor-widget elementor-widget-image" data-id="4f3a1ad" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+											<a href="https://tiptop.ro/">
+							<img src="../images/Prajitura-web_645x300px-1-op0w5wdquh501zbo87ctlzjdrr3i2ckry06qwfutj4.png" title="Prajitura-web_645x300px" alt="Prajitura-web_645x300px">								</a>
+											</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-bbf4a27 elementor-hidden-tablet elementor-hidden-phone elementor-column elementor-col-20 elementor-top-column" data-id="bbf4a27" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-6d15da1 elementor-hidden-desktop elementor-widget elementor-widget-sm-basket" data-id="6d15da1" data-element_type="widget" data-widget_type="sm-basket.default">
+				<div class="elementor-widget-container">
+					<div class="woocommerce">
+			<div class="man_cart_block">
+								<a href="https://tiptop.ro/cart/"><i class="ti ti-shopping-cart"></i><span class="man_cart-items-count">0</span>
+				</a>
+				<div class="man_widget_shopping_cart_content">
+					<div class="man_widget_shopping_cart_content_cart">
+					
+
+	<p class="woocommerce-mini-cart__empty-message">Niciun produs în coș.</p>
+
+
+					</div>
+				</div>
+							</div>
+		</div>
+		
+	
+			</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-dc5926c elementor-column elementor-col-20 elementor-top-column" data-id="dc5926c" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-798e427 elementor-align-left elementor-widget elementor-widget-button" data-id="798e427" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="https://livrari.tiptop.ro/" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">MAGAZIN ONLINE</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-c600ffc elementor-column elementor-col-20 elementor-top-column" data-id="c600ffc" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-7f25589 elementor-hidden-desktop elementor-absolute elementor-widget elementor-widget-sm-menu" data-id="7f25589" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="sm-menu.default">
+				<div class="elementor-widget-container">
+			<div id="elementor-header-primary" class="elementor-header">			<button class="sm_menu_toggle"><i class="ti ti-menu"></i></button>
+			<a class="sm_menu_toggle_close" href="#"><i class="ti ti-close"></i></a>
+			<div id="sm_menu" class="sm_menu">
+			
+				<nav itemtype="http://schema.org/SiteNavigationElement" itemscope="itemscope" id="elementor-navigation" class="elementor-navigation" role="navigation" aria-label="Elementor Menu">				
+				<ul id="sm_nav_menu" class="sm_nav_menu"><li id="menu-item-3504" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3504"><a href="#">Produse</a>
+<ul class="sub-menu">
+	<li id="menu-item-5691" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-5691"><a href="https://tiptop.ro/product-category/prajituri/">Prajituri</a></li>
+	<li id="menu-item-5696" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-5696"><a href="https://tiptop.ro/product-category/miniprajituri/">MiniPrajituri</a></li>
+	<li id="menu-item-5697" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-5697"><a href="https://tiptop.ro/product-category/patiserie/">Patiserie</a></li>
+	<li id="menu-item-5698" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-5698"><a href="https://tiptop.ro/product-category/produse-de-post/">Produse de Post</a></li>
+	<li id="menu-item-5699" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-5699"><a href="https://tiptop.ro/product-category/produse-traditionale/">Produse Traditionale</a></li>
+	<li id="menu-item-5686" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-5686"><a href="https://tiptop.ro/product-category/torturi/torturi-zi-de-zi/">Torturi</a></li>
+</ul>
+</li>
+<li id="menu-item-3505" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3505"><a href="#">Torturi</a>
+<ul class="sub-menu">
+	<li id="menu-item-5683" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-5683"><a href="https://tiptop.ro/product-category/torturi/torturi-aniversari/">Torturi Aniversari</a></li>
+	<li id="menu-item-5681" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-5681"><a href="https://tiptop.ro/product-category/torturi/torturi-nunta/">Torturi Nunta</a></li>
+	<li id="menu-item-5684" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-5684"><a href="https://tiptop.ro/product-category/torturi/torturi-botez/">Torturi Botez</a></li>
+	<li id="menu-item-5682" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-5682"><a href="https://tiptop.ro/product-category/torturi/torturi-copii/">Torturi Copii</a></li>
+	<li id="menu-item-5685" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-5685"><a href="https://tiptop.ro/product-category/torturi/torturi-deosebite/">Torturi Deosebite</a></li>
+</ul>
+</li>
+<li id="menu-item-6033" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6033"><a href="https://tiptop.ro/despre-tip-top/">Despre Tip Top</a></li>
+<li id="menu-item-6034" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6034"><a href="https://tiptop.ro/magazine/">Magazine</a></li>
+<li id="menu-item-5724" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5724"><a href="https://tiptop.ro/contact/">Contact</a></li>
+</ul>				</nav>
+
+			</div>
+		</div>
+		
+
+			</div>
+				</div>
+				<div class="elementor-element elementor-element-c4c3c3d elementor-hidden-tablet elementor-hidden-phone elementor-widget elementor-widget-sm-menu" data-id="c4c3c3d" data-element_type="widget" data-widget_type="sm-menu.default">
+				<div class="elementor-widget-container">
+			<div id="elementor-header-primary" class="elementor-header">			<button class="sm_menu_toggle"><i class="ti ti-menu"></i></button>
+			<a class="sm_menu_toggle_close" href="#"><i class="ti ti-close"></i></a>
+			<div id="sm_menu" class="sm_menu">
+			
+				<nav itemtype="http://schema.org/SiteNavigationElement" itemscope="itemscope" id="elementor-navigation" class="elementor-navigation" role="navigation" aria-label="Elementor Menu">				
+				<ul id="sm_nav_menu" class="sm_nav_menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3504"><a href="#">Produse</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-5691"><a href="https://tiptop.ro/product-category/prajituri/">Prajituri</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-5696"><a href="https://tiptop.ro/product-category/miniprajituri/">MiniPrajituri</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-5697"><a href="https://tiptop.ro/product-category/patiserie/">Patiserie</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-5698"><a href="https://tiptop.ro/product-category/produse-de-post/">Produse de Post</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-5699"><a href="https://tiptop.ro/product-category/produse-traditionale/">Produse Traditionale</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-5686"><a href="https://tiptop.ro/product-category/torturi/torturi-zi-de-zi/">Torturi</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3505"><a href="#">Torturi</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-5683"><a href="https://tiptop.ro/product-category/torturi/torturi-aniversari/">Torturi Aniversari</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-5681"><a href="https://tiptop.ro/product-category/torturi/torturi-nunta/">Torturi Nunta</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-5684"><a href="https://tiptop.ro/product-category/torturi/torturi-botez/">Torturi Botez</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-5682"><a href="https://tiptop.ro/product-category/torturi/torturi-copii/">Torturi Copii</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-5685"><a href="https://tiptop.ro/product-category/torturi/torturi-deosebite/">Torturi Deosebite</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6033"><a href="https://tiptop.ro/despre-tip-top/">Despre Tip Top</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6034"><a href="https://tiptop.ro/magazine/">Magazine</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5724"><a href="https://tiptop.ro/contact/">Contact</a></li>
+</ul>				</nav>
+
+			</div>
+		</div>
+		
+
+			</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-bf3eeb5 elementor-hidden-tablet elementor-hidden-phone elementor-column elementor-col-20 elementor-top-column" data-id="bf3eeb5" data-element_type="column">
+			<div class="elementor-column-wrap">
+					<div class="elementor-widget-wrap">
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+						</div>
+			</div>
+		</div>
+				</header>
+
+	
+
+
+	
+
+	
+	
+		
+	<div class="man_intro man_404_section  man_image_bck">
+		
+		
+		<div class="man_intro_cont text-left">
+				<div class="container">
+					<div class="row">
+						<div class="col-md-5 col-sm-6">
+							<div class="man_404">404							</div>
+							<h2>SOMETHING&#039;S GONE WRONG							</h2>
+							<p>We are very sorry but the page you are looking for cannot be found.</p>
+							<a href="javascript:history.back()" class="btn"><i class="ti ti-arrow-left"></i> Back</a>
+
+						</div>
+						<div class="col-md-7 col-sm-6 hidden-xs text-right">
+							<img src="../images/robo.png" alt="404">
+						</div>
+					</div>
+					
+				
+				</div>
+		</div>
+		
+
+	</div>
+
+	
+
+	<div id="content" class="site-content">
+
+
+
+
+	</div><!-- #content -->
+	
+
+			<footer itemtype="https://schema.org/WPFooter" itemscope="itemscope" id="colophon" role="contentinfo">
+			<div class="footer-width-fixer">		<div data-elementor-type="wp-post" data-elementor-id="103" class="elementor elementor-103" data-elementor-settings="[]">
+			<div class="elementor-inner">
+				<div class="elementor-section-wrap">
+							<section class="elementor-element elementor-element-2589b36b elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="2589b36b" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-3b42a32 elementor-column elementor-col-20 elementor-top-column" data-id="3b42a32" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-31c94d5 elementor-widget elementor-widget-image" data-id="31c94d5" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="566" height="199" src="../images/Prajitura-web_645x300px.png" class="attachment-large size-large" alt="" srcset="../images/Prajitura-web_645x300px.png 566w, ../images/Prajitura-web_645x300px-300x105.png 300w, ../images/Prajitura-web_645x300px-285x100.png 285w, ../images/Prajitura-web_645x300px-150x53.png 150w" sizes="(max-width: 566px) 100vw, 566px">											</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-2703d9c elementor-widget elementor-widget-text-editor" data-id="2703d9c" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p>Din anul 1993 când a fost înfiinţată prima cofetărie Tip Top, am oferit clienţilor noştri calitate şi tradiţie, ajungând să avem magazine proprii în Bucureşti şi în ţară, prin care putem să oferim o gamă de peste 400 de produse atent selecţionate.</p></div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-53f90412 elementor-hidden-phone elementor-column elementor-col-20 elementor-top-column" data-id="53f90412" data-element_type="column">
+			<div class="elementor-column-wrap">
+					<div class="elementor-widget-wrap">
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-7633436d elementor-hidden-phone elementor-column elementor-col-20 elementor-top-column" data-id="7633436d" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-42f04f2d elementor-widget elementor-widget-heading" data-id="42f04f2d" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h5 class="elementor-heading-title elementor-size-default elementor-heading-title elementor-size-default elementor-align-after-left">Suport clienti</h5>		</div>
+				</div>
+				<div class="elementor-element elementor-element-8e66b6e elementor-widget elementor-widget-text-editor" data-id="8e66b6e" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p><a href="https://tiptop.ro/despre-tip-top/">Despre Noi</a></p><p><a href="https://tiptop.ro/contact/">Contactează-ne</a></p><p><a href="https://tiptop.ro/angajari/">Fă parte din echipă</a></p><p><a href="https://tiptop.ro/sesizari/">Depune o sesizare</a></p><p><a href="https://tiptop.ro/protectia-datelor/">Politica GDPR</a></p><p><a href="https://webmail.tiptop.ro/">Webmail</a></p></div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-6cf099b elementor-hidden-phone elementor-column elementor-col-20 elementor-top-column" data-id="6cf099b" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-1593535 elementor-widget elementor-widget-heading" data-id="1593535" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h5 class="elementor-heading-title elementor-size-default elementor-heading-title elementor-size-default elementor-align-after-left">Compania</h5>		</div>
+				</div>
+				<div class="elementor-element elementor-element-f15b700 elementor-widget elementor-widget-text-editor" data-id="f15b700" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p><a href="https://tiptop.ro/magazine/">Locații Magazine</a></p><p><a href="https://tiptop.ro/product-category/bonito-frozen-products/">Bonito</a></p><p><a href="https://tiptop.ro/colaboratori/">Colaboratori</a></p><p><a href="https://tiptop.ro/catalog-torturi/">Catalog torturi</a></p><p><a href="https://tiptop.ro/certificari/">Certificari</a></p></div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-3991796 elementor-hidden-phone elementor-column elementor-col-20 elementor-top-column" data-id="3991796" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-ce338d0 elementor-widget elementor-widget-heading" data-id="ce338d0" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h5 class="elementor-heading-title elementor-size-default elementor-heading-title elementor-size-default elementor-align-after-left">Cauta bunatati pe site</h5>		</div>
+				</div>
+				<div class="elementor-element elementor-element-ff8edaa elementor-search-form--skin-minimal elementor-widget elementor-widget-search-form" data-id="ff8edaa" data-element_type="widget" data-settings="{&quot;skin&quot;:&quot;minimal&quot;}" data-widget_type="search-form.default">
+				<div class="elementor-widget-container">
+					<form class="elementor-search-form" role="search" action="https://tiptop.ro" method="get">
+			 
+						<div class="elementor-search-form__container">
+									<div class="elementor-search-form__icon">
+						<i class="fa fa-search" aria-hidden="true"></i>
+						<span class="elementor-screen-only">Caută</span>
+					</div>
+								<input placeholder="Caută in site..." class="elementor-search-form__input" type="search" name="s" title="Caută" value="">
+															</div>
+		</form>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-d5e4157 elementor-shape-circle elementor-widget elementor-widget-social-icons" data-id="d5e4157" data-element_type="widget" data-widget_type="social-icons.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-social-icons-wrapper">
+							<a class="elementor-icon elementor-social-icon elementor-social-icon-facebook elementor-repeater-item-d9892db" href="https://www.facebook.com/CofetariileTipTop" target="_blank">
+					<span class="elementor-screen-only">Facebook</span>
+					<i class="fab fa-facebook"></i>				</a>
+							<a class="elementor-icon elementor-social-icon elementor-social-icon-instagram elementor-repeater-item-0016f0b" href="https://www.instagram.com/cofetariile_tiptop_official" target="_blank">
+					<span class="elementor-screen-only">Instagram</span>
+					<i class="fab fa-instagram"></i>				</a>
+					</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-49691775 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="49691775" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+							<div class="elementor-background-overlay"></div>
+							<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-f645f94 elementor-column elementor-col-100 elementor-top-column" data-id="f645f94" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-cfe6b74 elementor-hidden-tablet elementor-hidden-phone elementor-widget elementor-widget-text-editor" data-id="cfe6b74" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p style="text-align: center;">© 2020 Tip Top. Toate drepturile rezervate. Un concept <a href="https://www.justpixel.ro" target="_blank" rel="noopener">Justpixel</a></p></div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+						</div>
+			</div>
+		</div>
+		</div>		</footer>
+	
+
+</div><!-- #page -->
+
+<a href="tel:0213011550" id="callnowbutton"><span>Call Now Button</span></a><div id="stm_gdpr_popup-main" class="stm_gdpr_popup-main" style="background-color: #131323; color: #fff;
+		left: 20px; bottom: 20px; ">
+			<div class="stm_gdpr_popup-content">Acest site foloseste cookie-uri</div>
+			<div class="stm_gdpr_popup-links">
+				<a href="#" id="stm_gdpr_popup_accept" class="stm_gdpr_popup-accept">De acord</a>
+				<a href="https://tiptop.ro/protectia-datelor/" class="stm_gdpr_popup-privacy">Protectia datelor</a>
+			</div>
+		</div><svg style="display:none;">
+  <symbol id="wame_svg__logo" viewbox="0 0 24 24"><path fill="#fff" d="M3.516 3.516c4.686-4.686 12.284-4.686 16.97 0 4.686 4.686 4.686 12.283 0 16.97a12.004 12.004 0 01-13.754 2.299l-5.814.735a.392.392 0 01-.438-.44l.748-5.788A12.002 12.002 0 013.517 3.517zm3.61 17.043l.3.158a9.846 9.846 0 0011.534-1.758c3.843-3.843 3.843-10.074 0-13.918-3.843-3.843-10.075-3.843-13.918 0a9.846 9.846 0 00-1.747 11.554l.16.303-.51 3.942a.196.196 0 00.219.22l3.961-.501zm6.534-7.003l-.933 1.164a9.843 9.843 0 01-3.497-3.495l1.166-.933a.792.792 0 00.23-.94L9.561 6.96a.793.793 0 00-.924-.445 1291.6 1291.6 0 00-2.023.524.797.797 0 00-.588.88 11.754 11.754 0 0010.005 10.005.797.797 0 00.88-.587l.525-2.023a.793.793 0 00-.445-.923L14.6 13.327a.792.792 0 00-.94.23z"/></symbol>
+  <symbol id="wame_svg__close" viewbox="0 0 24 24"><path fill="#fff" d="M24 2.4L21.6 0 12 9.6 2.4 0 0 2.4 9.6 12 0 21.6 2.4 24l9.6-9.6 9.6 9.6 2.4-2.4-9.6-9.6L24 2.4z"/></symbol>
+  <symbol id="wame_svg__whatsapp" viewbox="0 0 120 28"><path fill-rule="evenodd" d="M117.2 17c0 .4-.2.7-.4 1-.1.3-.4.5-.7.7l-1 .2c-.5 0-.9 0-1.2-.2l-.7-.7a3 3 0 0 1-.4-1 5.4 5.4 0 0 1 0-2.3c0-.4.2-.7.4-1l.7-.7a2 2 0 0 1 1.1-.3 2 2 0 0 1 1.8 1l.4 1a5.3 5.3 0 0 1 0 2.3zm2.5-3c-.1-.7-.4-1.3-.8-1.7a4 4 0 0 0-1.3-1.2c-.6-.3-1.3-.4-2-.4-.6 0-1.2.1-1.7.4a3 3 0 0 0-1.2 1.1V11H110v13h2.7v-4.5c.4.4.8.8 1.3 1 .5.3 1 .4 1.6.4a4 4 0 0 0 3.2-1.5c.4-.5.7-1 .8-1.6.2-.6.3-1.2.3-1.9s0-1.3-.3-2zm-13.1 3c0 .4-.2.7-.4 1l-.7.7-1.1.2c-.4 0-.8 0-1-.2-.4-.2-.6-.4-.8-.7a3 3 0 0 1-.4-1 5.4 5.4 0 0 1 0-2.3c0-.4.2-.7.4-1 .1-.3.4-.5.7-.7a2 2 0 0 1 1-.3 2 2 0 0 1 1.9 1l.4 1a5.4 5.4 0 0 1 0 2.3zm1.7-4.7a4 4 0 0 0-3.3-1.6c-.6 0-1.2.1-1.7.4a3 3 0 0 0-1.2 1.1V11h-2.6v13h2.7v-4.5c.3.4.7.8 1.2 1 .6.3 1.1.4 1.7.4a4 4 0 0 0 3.2-1.5c.4-.5.6-1 .8-1.6.2-.6.3-1.2.3-1.9s-.1-1.3-.3-2c-.2-.6-.4-1.2-.8-1.6zm-17.5 3.2l1.7-5 1.7 5h-3.4zm.2-8.2l-5 13.4h3l1-3h5l1 3h3L94 7.3h-3zm-5.3 9.1l-.6-.8-1-.5a11.6 11.6 0 0 0-2.3-.5l-1-.3a2 2 0 0 1-.6-.3.7.7 0 0 1-.3-.6c0-.2 0-.4.2-.5l.3-.3h.5l.5-.1c.5 0 .9 0 1.2.3.4.1.6.5.6 1h2.5c0-.6-.2-1.1-.4-1.5a3 3 0 0 0-1-1 4 4 0 0 0-1.3-.5 7.7 7.7 0 0 0-3 0c-.6.1-1 .3-1.4.5l-1 1a3 3 0 0 0-.4 1.5 2 2 0 0 0 1 1.8l1 .5 1.1.3 2.2.6c.6.2.8.5.8 1l-.1.5-.4.4a2 2 0 0 1-.6.2 2.8 2.8 0 0 1-1.4 0 2 2 0 0 1-.6-.3l-.5-.5-.2-.8H77c0 .7.2 1.2.5 1.6.2.5.6.8 1 1 .4.3.9.5 1.4.6a8 8 0 0 0 3.3 0c.5 0 1-.2 1.4-.5a3 3 0 0 0 1-1c.3-.5.4-1 .4-1.6 0-.5 0-.9-.3-1.2zM74.7 8h-2.6v3h-1.7v1.7h1.7v5.8c0 .5 0 .9.2 1.2l.7.7 1 .3a7.8 7.8 0 0 0 2 0h.7v-2.1a3.4 3.4 0 0 1-.8 0l-1-.1-.2-1v-4.8h2V11h-2V8zm-7.6 9v.5l-.3.8-.7.6c-.2.2-.7.2-1.2.2h-.6l-.5-.2a1 1 0 0 1-.4-.4l-.1-.6.1-.6.4-.4.5-.3a4.8 4.8 0 0 1 1.2-.2 8.3 8.3 0 0 0 1.2-.2l.4-.3v1zm2.6 1.5v-5c0-.6 0-1.1-.3-1.5l-1-.8-1.4-.4a10.9 10.9 0 0 0-3.1 0l-1.5.6c-.4.2-.7.6-1 1a3 3 0 0 0-.5 1.5h2.7c0-.5.2-.9.5-1a2 2 0 0 1 1.3-.4h.6l.6.2.3.4.2.7c0 .3 0 .5-.3.6-.1.2-.4.3-.7.4l-1 .1a21.9 21.9 0 0 0-2.4.4l-1 .5c-.3.2-.6.5-.8.9-.2.3-.3.8-.3 1.3s.1 1 .3 1.3c.1.4.4.7.7 1l1 .4c.4.2.9.2 1.3.2a6 6 0 0 0 1.8-.2c.6-.2 1-.5 1.5-1a4 4 0 0 0 .2 1H70l-.3-1v-1.2zm-11-6.7c-.2-.4-.6-.6-1-.8-.5-.2-1-.3-1.8-.3-.5 0-1 .1-1.5.4a3 3 0 0 0-1.3 1.2v-5h-2.7v13.4H53v-5.1c0-1 .2-1.7.5-2.2.3-.4.9-.6 1.6-.6.6 0 1 .2 1.3.6.3.4.4 1 .4 1.8v5.5h2.7v-6c0-.6 0-1.2-.2-1.6 0-.5-.3-1-.5-1.3zm-14 4.7l-2.3-9.2h-2.8l-2.3 9-2.2-9h-3l3.6 13.4h3l2.2-9.2 2.3 9.2h3l3.6-13.4h-3l-2.1 9.2zm-24.5.2L18 15.6c-.3-.1-.6-.2-.8.2A20 20 0 0 1 16 17c-.2.2-.4.3-.7.1-.4-.2-1.5-.5-2.8-1.7-1-1-1.7-2-2-2.4-.1-.4 0-.5.2-.7l.5-.6.4-.6v-.6L10.4 8c-.3-.6-.6-.5-.8-.6H9c-.2 0-.6.1-.9.5C7.8 8.2 7 9 7 10.7c0 1.7 1.3 3.4 1.4 3.6.2.3 2.5 3.7 6 5.2l1.9.8c.8.2 1.6.2 2.2.1.6-.1 2-.8 2.3-1.6.3-.9.3-1.5.2-1.7l-.7-.4zM14 25.3c-2 0-4-.5-5.8-1.6l-.4-.2-4.4 1.1 1.2-4.2-.3-.5A11.5 11.5 0 0 1 22.1 5.7 11.5 11.5 0 0 1 14 25.3zM14 0A13.8 13.8 0 0 0 2 20.7L0 28l7.3-2A13.8 13.8 0 1 0 14 0z"/></symbol>
+  <symbol id="wame_svg__wame" viewbox="0 0 72 17"><path fill-rule="evenodd" d="M25.371 10.429l2.122-6.239h.045l2.054 6.239h-4.22zm32.2 2.397c-.439.495-.88.953-1.325 1.375-.797.755-1.332 1.232-1.604 1.43-.622.438-1.156.706-1.604.805-.447.1-.787.13-1.02.09a3.561 3.561 0 0 1-.7-.239c-.66-.318-1.02-.864-1.079-1.64-.058-.774.03-1.619.263-2.533.35-1.987 1.108-4.133 2.274-6.438a73.481 73.481 0 0 0-2.8 3.04c-.816.954-1.7 2.096-2.653 3.428a44.068 44.068 0 0 0-2.77 4.441c-.738 0-1.341-.159-1.808-.477-.427-.278-.748-.695-.962-1.252-.214-.556-.165-1.41.146-2.563l.204-.626c.097-.298.204-.606.32-.924.117-.318.234-.626.35-.924.117-.298.195-.507.234-.626v.06c.272-.756.603-1.56.991-2.415a56.92 56.92 0 0 1 1.4-2.832 62.832 62.832 0 0 0-3.266 3.875 61.101 61.101 0 0 0-2.945 3.995 57.072 57.072 0 0 0-2.886 4.71c-.387 0-.736-.044-1.048-.131l.195.545h-3.72l-1.23-3.786h-6.093L23.158 17h-3.605l6.16-17h3.674l4.357 12.16c.389-1.35.97-2.736 1.74-4.16a41.336 41.336 0 0 0 2.013-4.232.465.465 0 0 0 .058-.18c0-.039.02-.098.058-.178.04-.08.078-.199.117-.358.039-.159.097-.337.175-.536.039-.12.078-.219.117-.298a.465.465 0 0 0 .058-.18c.078-.277.175-.575.292-.893.116-.318.194-.597.233-.835V.25c-.039-.04-.039-.08 0-.119l.233-.12c.117-.039.292.02.525.18.156.08.292.179.408.298.272.199.564.427.875.685.311.259.583.557.816.895a2.9 2.9 0 0 1 .467 1.043c.078.358.039.735-.117 1.133a8.127 8.127 0 0 1-.35.775c0 .08-.038.159-.116.238a2.93 2.93 0 0 1-.175.298 7.05 7.05 0 0 0-.35.656c-.039.04-.058.07-.058.09 0 .02-.02.05-.059.089a61.988 61.988 0 0 1-1.633 2.385c-.544.755-.913 1.35-1.108 1.788a79.39 79.39 0 0 1 3.5-4.233 101.59 101.59 0 0 1 3.12-3.398C45.651 1.82 46.612.986 47.468.43c.739.278 1.341.596 1.808.954.428.318.768.676 1.02 1.073.253.398.244.835-.029 1.312l-1.4 2.325a36.928 36.928 0 0 0-1.749 3.279 53.748 53.748 0 0 1 1.633-1.848 46.815 46.815 0 0 1 4.024-3.875c.7-.597 1.38-1.113 2.041-1.55.739.278 1.341.596 1.808.953.428.318.768.676 1.02 1.073.253.398.243.835-.029 1.312-.155.318-.408.795-.758 1.43a152.853 152.853 0 0 0-2.04 3.846 97.87 97.87 0 0 0-.467.924c-.35.835-.632 1.55-.846 2.146-.214.597-.282.934-.204 1.014a.63.63 0 0 0 .291-.06c.234-.119.564-.348.992-.685.428-.338.875-.736 1.341-1.193.467-.457.914-.914 1.341-1.37.217-.232.409-.45.575-.657a15.4 15.4 0 0 1 .957-2.514c.34-.696.708-1.333 1.108-1.91.399-.576.778-1.044 1.137-1.402a19.553 19.553 0 0 1 1.796-1.7 32.727 32.727 0 0 1 1.497-1.164 8.821 8.821 0 0 1 1.317-.835C66.292.989 66.83.83 67.269.83c.32 0 .649.11.988.328.34.22.649.478.928.776.28.299.519.607.718.925.2.318.3.557.3.716.04.597-.06 1.253-.3 1.97a7.14 7.14 0 0 1-1.107 2.058 8.534 8.534 0 0 1-1.826 1.76 6.522 6.522 0 0 1-2.395 1.074c-.2.08-.36.06-.48-.06a.644.644 0 0 1-.179-.477c0-.358.14-.616.42-.776.837-.318 1.536-.735 2.095-1.253.559-.517.998-1.034 1.317-1.551.4-.597.699-1.213.898-1.85 0-.199-.09-.308-.27-.328a4.173 4.173 0 0 0-.448-.03 4.83 4.83 0 0 0-1.318.597c-.399.239-.848.577-1.347 1.014-.499.438-1.028 1.015-1.586 1.73-.918 1.154-1.587 2.298-2.006 3.432-.42 1.134-.629 1.979-.629 2.536 0 .915.19 1.482.569 1.7.38.22.728.329 1.048.329.638 0 1.347-.15 2.125-.448a16.248 16.248 0 0 0 2.305-1.104 30.05 30.05 0 0 0 2.126-1.342 27.256 27.256 0 0 0 1.646-1.224c.08-.04.18-.1.3-.179l.24-.12a.54.54 0 0 1 .239-.059c.08 0 .16.02.24.06.08.04.119.16.119.358 0 .239-.08.457-.24.656a19.115 19.115 0 0 1-2.245 1.82 35.445 35.445 0 0 1-2.185 1.403c-.759.437-1.497.855-2.215 1.253a8.461 8.461 0 0 1-1.647.387c-.499.06-.968.09-1.407.09-.998 0-1.796-.16-2.395-.477-.599-.319-1.048-.706-1.347-1.164a4.113 4.113 0 0 1-.599-1.372c-.1-.457-.15-.843-.15-1.161zm-42.354-1.111L17.887 0h3.514L17.02 17h-3.56L10.7 5.428h-.046L7.94 17H4.312L0 0h3.582L6.16 11.571h.045L9.035 0h3.354l2.783 11.715h.045z"/></symbol>
+</svg>			<div class="whatsappme whatsappme--right" data-settings="{&quot;telephone&quot;:&quot;40733331197&quot;,&quot;mobile_only&quot;:false,&quot;button_delay&quot;:0,&quot;whatsapp_web&quot;:false,&quot;message_text&quot;:&quot;&quot;,&quot;message_delay&quot;:0,&quot;message_badge&quot;:false,&quot;message_send&quot;:&quot;&quot;,&quot;message_text_on_sale&quot;:&quot;&quot;}">
+				<div class="whatsappme__button">
+					<svg class="whatsappme__button__open"><use xlink:href="#wame_svg__logo"/></svg>
+																<div class="whatsappme__button__sendtext">Deschide chatul</div>
+																										<div class="whatsappme__tooltip"><div>Scrie-ne pe Whatsapp!</div></div>
+									</div>
+				<div class="whatsappme__box">
+					<div class="whatsappme__header">
+						<svg><use xlink:href="#wame_svg__whatsapp"/></svg>
+						<div class="whatsappme__close"><svg><use xlink:href="#wame_svg__close"/></svg></div>
+					</div>
+					<div class="whatsappme__box__scroll">
+						<div class="whatsappme__box__content">
+													</div>
+					</div>
+											<div class="whatsappme__copy">Powered by <a href="https://wame.chat/powered/?site=Tip+Top&url=https%3A%2F%2Ftiptop.ro%2Fwp-content%2Fplugins%2Felementor-sm-widgets%2Fassets%2Ffonts%2FFlaticon.ttf" rel="nofollow noopener" target="_blank"><svg><use xlink:href="#wame_svg__wame"/></svg></a></div>
+									</div>
+			</div>
+				<script type="text/javascript">
+		var c = document.body.className;
+		c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
+		document.body.className = c;
+	</script>
+	<link rel="stylesheet" id="woof_tooltip-css-css" href="../css/tooltipster.bundle.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="woof_tooltip-css-noir-css" href="../css/tooltipster-sideTip-noir.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="elementor-icons-fa-solid-css" href="../css/solid.min.css" type="text/css" media="all">
+<script type="text/javascript" src="../js/instafeed.min.js"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"https:\/\/tiptop.ro\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="../js/scripts.js"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var pwb_ajax_object = {"carousel_prev":"<","carousel_next":">"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="../js/functions-frontend.min.js"></script>
+<script type="text/javascript" src="../js/jquery.blockUI.min.js"></script>
+<script type="text/javascript" src="../js/js.cookie.min.js"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="../js/woocommerce.min.js"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var wc_cart_fragments_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","cart_hash_key":"wc_cart_hash_954c4c391465efebbefd7fe6878a8ef8","fragment_name":"wc_fragments_954c4c391465efebbefd7fe6878a8ef8","request_timeout":"5000"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="../js/cart-fragments.min.js"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var stm_gdpr_vars = {"AjaxUrl":"https:\/\/tiptop.ro\/wp-admin\/admin-ajax.php","error_prefix":"Some errors occurred:","success":"Your request have been submitted. Check your email to validate your data request."};
+/* ]]> */
+</script>
+<script type="text/javascript" src="../js/scripts_2.js"></script>
+<script type="text/javascript" src="../js/navigation.js"></script>
+<script type="text/javascript" src="../js/manufacturer_script_3.js"></script>
+<script type="text/javascript" src="../js/skip-link-focus-fix.js"></script>
+<script type="text/javascript" src="../js/whatsappme.min.js"></script>
+<script type="text/javascript" src="../js/wp-embed.min.js"></script>
+<script type="text/javascript" src="../js/tooltipster.bundle.min.js"></script>
+<script type="text/javascript" src="../js/icheck.min.js"></script>
+<script type="text/javascript" src="../js/front.js"></script>
+<script type="text/javascript" src="../js/radio.js"></script>
+<script type="text/javascript" src="../js/checkbox.js"></script>
+<script type="text/javascript" src="../js/select.js"></script>
+<script type="text/javascript" src="../js/mselect.js"></script>
+<script type="text/javascript" src="../js/by_instock.js"></script>
+<script type="text/javascript" src="../js/chosen.jquery.min.js"></script>
+<script type="text/javascript" src="../js/core.min.js"></script>
+<script type="text/javascript" src="../js/widget.min.js"></script>
+<script type="text/javascript" src="../js/mouse.min.js"></script>
+<script type="text/javascript" src="../js/slider.min.js"></script>
+<script type="text/javascript" src="../js/jquery-ui-touch-punch.min.js"></script>
+<script type="text/javascript" src="../js/accounting.min.js"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var woocommerce_price_slider_params = {"currency_format_num_decimals":"0","currency_format_symbol":"lei","currency_format_decimal_sep":".","currency_format_thousand_sep":",","currency_format":"%v\u00a0%s"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="../js/price-slider.min.js"></script>
+<script type="text/javascript" src="../js/frontend-modules.min.js"></script>
+<script type="text/javascript" src="../js/jquery.sticky.min.js"></script>
+<script type="text/javascript">
+var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/tiptop.ro\/wp-admin\/admin-ajax.php","nonce":"02c5848f51","i18n":{"toc_no_headings_found":"No headings were found on this page."},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"google":{"title":"Google+","has_counter":true},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"delicious":{"title":"Delicious"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"}},"menu_cart":{"cart_page_url":"https:\/\/tiptop.ro\/cart\/","checkout_page_url":"https:\/\/tiptop.ro\/checkout\/"},"facebook_sdk":{"lang":"ro_RO","app_id":""}};
+</script>
+<script type="text/javascript" src="../js/frontend.min_1.js"></script>
+<script type="text/javascript" src="../js/position.min.js"></script>
+<script type="text/javascript" src="../js/dialog.min.js"></script>
+<script type="text/javascript" src="../js/waypoints.min.js"></script>
+<script type="text/javascript" src="../js/swiper.min.js"></script>
+<script type="text/javascript" src="../js/share-link.min.js"></script>
+<script type="text/javascript">
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false},"i18n":{"shareOnFacebook":"Partajeaz\u0103 pe Facebook","shareOnTwitter":"Partajeaz\u0103 pe Twitter","pinIt":"Partajeaz\u0103 pe Pinterest","downloadImage":"Descarc\u0103 imaginea"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"version":"2.9.7","urls":{"assets":"https:\/\/tiptop.ro\/wp-content\/plugins\/elementor\/assets\/"},"settings":{"general":{"elementor_global_image_lightbox":"yes","elementor_lightbox_enable_counter":"yes","elementor_lightbox_enable_fullscreen":"yes","elementor_lightbox_enable_zoom":"yes","elementor_lightbox_enable_share":"yes","elementor_lightbox_title_src":"title","elementor_lightbox_description_src":"description"},"editorPreferences":[]},"post":{"id":0,"title":"Pagin\u0103 neg\u0103sit\u0103 &#8211; Tip Top","excerpt":""}};
+</script>
+<script type="text/javascript" src="../js/frontend.min.js"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var jetElements = {"ajaxUrl":"https:\/\/tiptop.ro\/wp-admin\/admin-ajax.php","isMobile":"false","templateApiUrl":"https:\/\/tiptop.ro\/wp-json\/jet-elements-api\/v1\/elementor-template","devMode":"false","messages":{"invalidMail":"Please specify a valid e-mail"}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="../js/jet-elements.min.js"></script>
+<script type="text/javascript" src="../js/datepicker.min.js"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var JetSmartFilterSettings = {"ajaxurl":"https:\/\/tiptop.ro\/wp-admin\/admin-ajax.php","selectors":{"epro-archive-products":{"selector":".elementor-widget-wc-archive-products .elementor-widget-container","action":"replace","inDepth":false,"idPrefix":"#"},"epro-archive":{"selector":".elementor-widget-archive-posts .elementor-widget-container","action":"replace","inDepth":false,"idPrefix":"#"},"epro-posts":{"selector":".elementor-widget-posts .elementor-widget-container","action":"replace","inDepth":false,"idPrefix":"#"},"epro-products":{"selector":".elementor-widget-woocommerce-products .elementor-widget-container","action":"replace","inDepth":false,"idPrefix":"#"},"jet-engine-calendar":{"selector":".elementor-widget-jet-listing-calendar > .elementor-widget-container","action":"insert","inDepth":false,"idPrefix":"#"},"jet-engine":{"selector":".elementor-widget-jet-listing-grid > .elementor-widget-container","action":"insert","inDepth":false,"idPrefix":"#"},"jet-woo-products-grid":{"selector":".elementor-jet-woo-products.jet-woo-builder","action":"insert","inDepth":true,"idPrefix":"#"},"jet-woo-products-list":{"selector":".elementor-jet-woo-products-list.jet-woo-builder","action":"insert","inDepth":true,"idPrefix":"#"},"woocommerce-archive":{"selector":".elementor-jet-woo-builder-products-loop","action":"insert","inDepth":false,"idPrefix":"#"},"woocommerce-shortcode":{"selector":"body .woocommerce[class*=\"columns\"]","action":"replace","inDepth":false,"idPrefix":"."}},"queries":[],"settings":[],"filters":[],"datePickerData":{"closeText":"Done","prevText":"Prev","nextText":"Next","currentText":"Today","monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesShort":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"dayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"dayNamesShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"dayNamesMin":["Su","Mo","Tu","We","Th","Fr","Sa"],"weekHeader":"Wk"}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="../js/public.js"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var jetWooBuilderData = [];
+/* ]]> */
+</script>
+<script type="text/javascript" src="../js/jet-woo-builder.min.js"></script>
+
+                <style type="text/css">
+        
+        
+
+
+        
+
+                    /***** START: hiding submit button of the price slider ******/
+                    .woof_price_search_container .price_slider_amount button.button{
+                        display: none;
+                    }
+
+                    .woof_price_search_container .price_slider_amount .price_label{
+                        text-align: left !important;
+                    }
+
+                    .woof .widget_price_filter .price_slider_amount .button {
+                        float: left;
+                    }
+
+                    /***** END: hiding submit button of the price slider ******/
+
+
+                    
+
+
+
+                        .woof_edit_view{
+                    display: none;
+                }
+        
+        </style>
+        
+
+        
+
+</body>
+</html>
